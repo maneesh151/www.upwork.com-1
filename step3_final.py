@@ -4,11 +4,11 @@ import re
 from logging_code import logger
 
 path = Path(output_folder).rglob("*.txt")
-_amt = re.compile(r'"\d*,?\d*\.\d{2}"')
+_amt = re.compile(r"\d*,?\d*\.\d{2}")
 
 header = {
     "parcel_no": re.compile(r"\w{3}-\w{3}-\w{3}"),
-    "owner_name": re.compile(r"(\D)"),
+    "owner_name": re.compile(r"\D*"),
     "cy_tax": _amt,
     "cy_penalty": _amt,
     "cy_pubcosts": _amt,
@@ -25,8 +25,15 @@ for text_file in [file for file in path]:
             for line in reader:
                 if re.search(header["parcel_no"], line):
                     for head, pattern in header.items():
+                        # print(line)
+                        for m in pattern.finditer(line):
+                            # print(line)
+                            print(m.start(), m.end(), m.group())
+                            line = line[m.end() :]
+                            break
+                        # line = line[pattern.finditer(line)[0].end()]
                         # print(head, pattern.finditer(line))
-                        line
+                        # line
 
                     # parcel_no = re.compile(r"\w{3}-\w{3}-\w{3}")
                     # for m in parcel_no.finditer(line):
