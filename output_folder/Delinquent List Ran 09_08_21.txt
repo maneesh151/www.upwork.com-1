@@ -1,0 +1,1391 @@
+TC3100       Current     Tax   Year:                 2021-22                                  Elko  County                                             09/08/21  Page        1
+             Oldest     Delinquency:                 2020-21                Second-year       Delinquencies       List
+                                                                            ------  Current   Year  Delinquencies      ------  Prior  Years    Delinquencies     Total
+Parcel  #    Current     Assessed             Owner                                 Tax             Penalty       Pub   Costs         Tax      Pen  &  Interest  Delinquent  Amt
+-----------  -------------------------------                                --------------    --------------      ----------   --------------  --------------    --------------
+0PM-318-030  TIGERMAN,      GARY        RICHARD             ET   AL                 14.20                   .57                       14.04            3.44             32.25
+001-01F-021  GONZALEZ,      EDGAR                                                   2,130.33                                                                     2,130.33
+001-026-005  VITALITY       CENTER                                                  1.96                    .08                       1.29             .31                   3.64
+001-026-006  VITALITY       CENTER                                                  1.96                    .08                       1.29             .31                   3.64
+001-053-012  ALSDORF,       MILTON         G     &   GARRY-BETH                     995.75                  9.96                      966.13           176.07    2,147.91
+001-067-010  URRIZAGA,      EVELYN            E                                     384.98                                                                       384.98
+001-095-007  WRIGHT,     DAVID       R                                              898.17                                                                       898.17
+001-134-002  PATEL,     MAHENDRA           LAL       ET     AL                      3,268.38                4.05                                                 3,272.43
+001-262-008  API   FOR   MACLEAN           IDAHO         STREET         PR          2,208.09                .46                                                  2,208.55
+001-265-003  JADEN   ENTERPRISES                 LLC                                2,617.81        26.18                      2,450.53                435.84    5,530.36
+001-272-007  WRIGHT     MOTOR     COMPANY                                           898.66                  8.99                      427.22           47.58     1,382.45
+001-348-005  NEVADA     STATE     OF                                                404.19                  4.04                      383.99           74.20     866.42
+001-357-001  RIVER   GEM    PROPERTIES                  LLC                         1,840.49        18.41                             875.24           90.13     2,824.27
+001-357-002  RIVER   GEM    PROPERTIES                  LLC                         344.65                  3.45                      163.66           22.53     534.29
+001-357-003  RIVER   GEM    PROPERTIES                  LLC                         213.54                  2.14                      101.96           16.69     334.33
+001-357-004  RIVER   GEM    PROPERTIES                  LLC                         344.65                  3.45                      163.66           22.53     534.29
+001-362-008  AGUILAR,       MARTIN         &     MARIA       DOLORES                669.69                  6.70                      389.94           105.45    1,171.78
+001-362-011  HAUGER,     SANDRA         D     ET     AL                             487.77                                                                       487.77
+001-372-004  WRIGHT     MOTOR     COMPANY                                           844.68                                                                       844.68
+001-441-003  VEGA,   MANUEL       R     TR                                          827.04                                            1.15-            1.15      827.04
+001-462-002  AYALA,     MICHAEL         &     KARA                                  477.39                  4.77                      453.64           86.38     1,022.18
+001-462-005  AYALA,     MICHAEL         &     KARA                                  583.53                  5.84                      554.63           104.06    1,248.06
+001-481-011  VILLANO,       JUAN     G     ET       AL                              505.61                  5.06                      170.91           45.42     727.00
+001-492-019  MARIN,     RAMON     JR                                                610.44                                                                       610.44
+001-492-020  VITALITY       CENTER                                                  1.96                    .08                       1.29             .31                   3.64
+001-542-009  CARNEY,     MARQUISE             ANTHONY           ET   AL             1,079.73                                                                     1,079.73
+001-561-039  MEYERS,     J  KIM                                                     1,754.39                                                                     1,754.39
+001-610-039  ATLAS   LAND     HOLDINGS               LLC                    15,678.91               156.79                            154.09           10.15     15,999.94
+001-610-085  WILLIS     SPRINGS         LLC                                         3,315.28        33.15                      3,153.75                558.90    7,061.08
+001-610-096  KOINONIA       DEVELOPMENT                 LP                          1,002.24        10.02                             758.17           139.68    1,910.11
+001-610-097  KOINONIA       DEVELOPMENT                 LP                          1,068.52        10.69                      1,016.07                184.81    2,280.09
+001-610-098  KOINONIA       DEVELOPMENT                 LP                          1,354.33        13.54                      1,288.00                232.39    2,888.26
+001-610-099  KOINONIA       DEVELOPMENT                 LP                          1,357.26        13.57                      1,290.79                232.91    2,894.53
+001-611-005  QUINTERO,      MARIA          ANTONIA           ET     AL              924.72                                                                       924.72
+001-620-046  BOARD   OF     REGENTS           OF     THE     UNIVERS                1.96                    .08                       1.29             .31                   3.64
+001-620-053  BOARD   OF     REGENTS           OF     THE     UNIVERS                1.96                    .08                       1.29             .31                   3.64
+001-630-010  CALDWELL,      PAMELA            TR                                    1,926.90        19.27                                                        1,946.17
+001-633-014  SORIANO,       JORGE       JR       ET     AL                          2,548.50                                                                     2,548.50
+001-640-066  MORTENSEN,       ANELA           ET     AL                             961.24                                                                       961.24
+001-660-086  KHERA   INDUSTRIAL               LLC                                   4,279.25                1.36                                                 4,280.61
+001-700-042  SMITH,     NICOLE       LYNN           ET   AL                         1,442.99        14.43                      1,365.90                252.19    3,075.51
+001-720-010  FERNANDEZ-JOAQUIN,                     JOSE     LOUIS       E          602.07                                                                       602.07
+001-765-008  RUTTER,     BRENT       &     SUZETTE                                  474.61                  4.75                      456.98           87.11     1,023.45
+001-765-009  RUTTER,     BRENT       &     SUZETTE                                  358.08                  3.58                      348.96           69.16     779.78
+001-781-003  QUINTERO,      GRISELDA                                                357.80                  3.58                      86.69            12.66     460.73
+001-781-015  MONTES,     HERNAN         ET       AL                                 401.31                                                                       401.31
+001-811-008  1550   IDAHO     ST     A     LLC                                      1,011.17        10.11                                                        1,021.28
+001-840-011  YOUNG,   QUIN   C                                               1,242.09   12.42   40.50     2.38      1,297.39
+001-870-015  FORSYTHE,   KARYN                                               630.65     6.31    40.75     17.58     695.29
+001-920-022  VITALITY   CENTER                                               1.96       .08     1.29      .31       3.64
+001-920-073  KLONDIKE   HOLDING             LLC                              10,013.08  100.13  98.15     9.46      10,220.82
+001-920-074  KLONDIKE   HOLDING             LLC                              16,316.19  163.16  162.79    12.09     16,654.23
+001-926-018  KIDD   PROPERTIES           LLC                                 1,327.47   13.28   .32       .05       1,341.12
+001-926-027  KIDD   PROPERTIES           LLC                                 1,457.10   14.57   10.79     .74       1,483.20
+001-960-044  JONES,   STEPHEN         E                                      2,546.84   25.47   25.68     7.63      2,605.62
+001-980-008  PEREZ,   MARTIN       S     &     OLIVIA           R            1,801.89   18.02   426.44    63.90     2,310.25
+001-990-033  LEADER,   LAURA       S                                         1,324.19   13.24   1,285.01  242.53    2,864.97
+002-030-063  GM  INVESTMENTS          LLC                                    15,088.08  150.88  7,609.19  1,351.63  24,199.78
+002-044-009  WHITE,   WILLIAM         R     &     BOBBI                      729.96                                 729.96
+002-079-005  HENSLEY   HOLDINGS             LLC                              284.08     2.84    67.69     8.31      362.92
+002-083-003  HARDISTY,   GARY         A                                      1,082.25   10.82                       1,093.07
+002-085-007  LITCHFIELD,     LINCOLN                 &     DIANA       S     220.13     2.20    54.57     8.35      285.25
+002-085-008  LITCHFIELD,     LINCOLN                 R     JR                729.24     7.29    233.99    57.60     1,028.12
+002-087-003  JNCF   HOLDINGS       LLC                                       549.44     5.49    537.70    101.10    1,193.73
+002-102-010  WAGGONER,   GEORGE             E     &     JO     ANN           401.06     4.01    102.33    13.64     521.04
+002-111-008  MARTIN,   JIM                                                   749.22                                 749.22
+002-111-012  HAIGWOOD,   DAVID                                               1,014.67   10.15   524.66    140.91    1,690.39
+002-112-001  HUNTLEY,   ARNOLD           D     &     CAROL         A         261.85     2.62    66.10     11.29     341.86
+002-112-002  JENSEN,   DAVID       W     &     TAMARA           A            313.70     3.14    285.88    59.53     662.25
+002-156-001  GONZALEZ,   MICHAEL               C     &CECILIA             M  533.76     5.34    259.64    31.65     830.39
+002-156-004  TROUSDALE,     GREGORY               PAUL         ET     AL     477.23     4.77    230.92    65.87     778.79
+002-163-002  LOVERIDGE,     ROBERT             D     &TINA         M         487.05             .04-      .04       487.05
+002-164-008  HANSEN,   GARY     D                                            507.10     5.07    247.00    30.47     789.64
+002-165-009  MICHELI,   GIULIANA               M     ET     AL               399.74     4.00    405.34    79.74     888.82
+002-166-011  GORDON,   ELWIN       RAY         ET       AL                   98.33      3.93    98.33     31.09     231.68
+002-171-003  FERRIN,   LAVINA         KIM         TR       ET   AL           667.85     6.68    324.22    49.60     1,048.35
+002-171-005  JOHNSON,   MARY       F     TR                                  452.09     4.52    311.10    47.96     815.67
+002-171-006  FERRIN,   LAVINIA           KIM         TR     ET     AL        .30                                    .30
+002-181-013  MELLEN,   JEFFERY           &     DEBERA                        382.39     3.82    362.23    70.40     818.84
+002-192-003  PIERETTI,   DOMINEK               J     TR                      504.17     5.04    398.86    76.79     984.86
+002-220-033  PERRY,   BRIAN     &     GENIFFER                 ANNE          1,025.31   10.25   979.60    178.42    2,193.58
+002-221-001  HUNTLEY,   CAROL         ANN                                    367.23     3.67    86.68     12.63     470.21
+002-221-002  HUNTLEY,   ARNOLD           D     &     CAROL         A         254.47     2.55    63.96     11.15     332.13
+002-222-003  HUNTLEY,   ARNOLD           D     JR       &   CAROL         A  211.39     2.11    55.05     8.38      276.93
+002-252-006  DOXEY,   KEVIN     C                                            744.16     7.44                        751.60
+002-280-005  ATKINS,   SONNY       &     TERI                                521.25     5.21    13.03-    13.03     526.46
+002-514-005  MUNDY,   KRISTOPHER               DEAN         ET     AL        296.03     2.96    287.42    57.31     643.72
+002-515-007  BERUMEN,   MIGUEL           &     MARTA                         233.69     2.34    226.25    46.61     508.89
+002-601-012  SHANKEL,   MICHAEL             JAMES                            340.99     3.41    234.36    50.17     628.93
+002-623-003  JACKSON,   REN        V     SR       &     DEBORAH           M  917.05     9.17    5.00-     5.00      926.22
+002-642-006  SHAMBLIN,   SAMUEL             G     &     AURELIA              270.81     2.71    262.92    53.44     589.88
+002-700-007  ROGERS,   LAVERN         LEE         &     BECKY                702.91     7.03                        709.94
+002-720-014  SPIRIT   MINERALS           LP                                  405.05     4.05    393.53    75.88     878.51
+002-744-015  SHAMBLIN,   VINCENT               LEE                           168.12                                 168.12
+003-019-009  SETTY-ROSEVEAR,             ANN         E                       213.96                                 213.96
+003-156-006  WARREN,   JOSEPH         JR                                     9.80       .39     9.69      2.37      22.25
+003-171-006  WARD,   JAMES   A                                               19.61      .78     19.38     4.75      44.52
+003-231-001  MOORE,   RACHAEL                                                131.88     1.32    129.63    29.81     292.64
+003-303-001  RODRIGUEZ,     RAUL         &     KARMA                         103.95     1.04              17.72     122.71
+003-308-002  BOWMAN,     MARJORIE             ET     AL                     2.44      .10    2.31    .57     5.42
+003-415-005  VEGA,   JAKE     ET     AL                                     22.80                            22.80
+003-421-011  GRANATA,     GARY       L     ET       AL                      12.30     .49    12.17   2.98    27.94
+003-515-005  MELLEN,     JEFFREY           D     &   DEBERA         TR      5.04      .20    4.98    1.22    11.44
+003-515-006  MELLEN,     JEFFREY           D     &   DEBERA         TR      85.71     3.43   85.11   28.91   203.16
+003-515-007  MELLEN,     JEFFREY           D     &   DEBERA         TR      5.04      .20    4.98    1.22    11.44
+003-515-008  MELLEN,     JEFFREY           D     &   DEBERA         TR      9.80      .39    9.69    2.37    22.25
+003-541-009  PERRY,   G   JOYCE         ET       AL                         11.48     .46    11.35   2.76    26.05
+003-826-002  JARAMILLO,       VICTOR             S                          3.53      .14    3.49    .85     8.01
+003-828-006  GARTLEY,     SHANE         V                                   10.59     .42    10.47   2.57    24.05
+003-901-002  PECK,   JESSICA                                                33.52     1.34   17.54   4.31    56.71
+003-902-006  MCGEE,   STEVEN         DEE         &   KARLA                  305.85    3.51   282.37  56.41   648.14
+003-903-007  BERG,   DON   A   &     ELLEN           L                      742.64    7.88   450.06  66.25   1,266.83
+003-904-005  WADSWORTH,       TROY                                          565.04    6.10   325.32  50.92   947.38
+003-910-001  GREGORY,     JOHN       M                                      419.90    4.65   287.58  44.87   757.00
+003-914-012  MCGEE,   STEVE                                                 100.34    1.45   80.81   26.79   209.39
+003-917-008  KERSTING,     JOSEPH             L     ETAL                    29.22     1.17   13.46   3.29    47.14
+003-918-009  SICHLEY,     RICHARD             DEAN                          68.31     2.73   50.47   19.36   140.87
+004-610-003  HOMESTAKE     MINING             COMPANY           OF  CAL     16.96     .68            .13     17.77
+005-120-002  CALAMITY     AG   INC                                          175.80           4.98-           170.82
+005-26A-001  KERBY,   FLETCHER             ET       AL                      52.81     2.11   52.21   19.80   126.93
+005-51D-009  KUCKENBECKER,           OLIVER             WAYNE               2,707.74  27.08                  2,734.82
+006-07B-019  SANCHEZ-GARCIA,               J     YSAIAS         ET  AL      51.93     2.08   51.21   19.55   124.77
+006-070-016  WINKELKOTTER,           ARON           BRYCE                   1,232.85                         1,232.85
+006-09H-029  RODRIGUEZ,       SANTIAGO               JR                     296.18    2.96   218.37  35.75   553.26
+006-09H-102  RIOS-MARTINEZ,             ANTONIO             JESUS       ET  257.79           .01-    .01     257.79
+006-09K-082  KRALL,   CLIFFORD             &     HEATHER                    3,876.82  .83    .02     .02     3,877.65
+006-100-020  MARTIN,     TERRY       ET       AL                            6.23      .25    5.33    1.29    13.10
+006-180-016  WILD   HORSE     CATTLE             COMPANY                    72.80     2.91           12.42   88.13
+006-31E-016  NEVADA   STATE       OF                                        1.96      .08    1.29    .31     3.64
+006-31E-026  DOLLAR,     DAVID                                              609.13    6.15   451.56  66.44   1,133.28
+006-32B-001  BANNOCK     PAVING         COMPANY             INC             15.44                            15.44
+006-320-039  NATIONAL     OIL     WELL           VARCO       LP             1.96      .08    43.89   14.26   60.19
+006-33G-040  HONEYCUTT,       MATTHEW                                       14.89     .60    14.08   3.45    33.02
+006-33G-049  GRESHAM,     KENNETH             RAY                           14.98     .60    14.16   3.48    33.22
+006-33G-050  GRESHAM,     KENNETH             RAY                           14.98     .60    14.16   3.48    33.22
+006-33G-051  GRESHAM,     KENNETH             RAY                           14.95     .60    14.13   3.48    33.16
+006-33G-052  GRESHAM,     KENNETH             RAY                           14.95     .60    14.13   3.48    33.16
+006-33H-0AN  HUGHES,     CHARLES           R                                295.65    2.96   286.44  57.14   642.19
+006-33H-0AY  DANA,   MICHAEL         L     &     AUDRA       E              415.86    4.16   407.56  81.07   908.65
+006-33H-0CI  CRAWFORD,     JACKIE             GARY       ET     AL          171.39                           171.39
+006-33H-044  OLIVO,   MARIA       CONCEPTION                                419.91    4.20   416.46  79.88   920.45
+006-34C-003  BARNETT,     EDWARD           RAY                              29.98     1.20   29.63   14.27   75.08
+006-34C-024  FAIRLEY,     KENIN         L     &     SUSAN       M           24.98     1.00   24.70   13.07   63.75
+006-34F-007  ABEL,   EDWARD       J                                         29.98     1.20   29.63   14.27   75.08
+006-52F-026  KENNEDY,     DEBRA         LYNN                                23.88     .96    24.03   12.91   61.78
+006-55F-011  BROWN,   SPENCER                                               44.96     1.80   44.45   17.89   109.10
+006-55H-010  HARRIS,     EUGENE         III                                 89.93     3.60   88.90   28.78   211.21
+006-56D-007  NAKAMURA,     ALICIA                                           37.68     1.51   37.25   16.13   92.57
+006-56E-021  CHAPMAN,     TOM     W     &     LOIS       L                  59.95     2.40   59.27   21.51   143.13
+006-56H-005  SLAYTON,     JAMES         D                                   39.97     1.60   39.51   16.69   97.77
+006-56H-006  SLAYTON,     JAMES         D                                   630.71    6.31   637.39  118.54  1,392.95
+006-56I-002  WALDRAM,       ALFRED           R     JR     ET       AL           59.95     2.40          20.04  82.39
+006-56O-006  CATLIN,     MICHAEL             J     TR     ET       AL           59.95     2.40  59.27   21.51  143.13
+006-56O-010  CATLIN,     MICHAEL             J     TR     ET       AL           77.71     3.11  76.82   25.82  183.46
+006-56O-018  CALDWELL,      PAMELA              TR                              163.47    1.64                 165.11
+007-070-006  USA                                                                                1.82    .46    2.28
+007-080-0BA  HOSLEY,     RICHARD             A     &     MICHELE                215.75                         215.75
+007-080-124  J5   RANCH     LLC                                                 2,207.62                       2,207.62
+007-080-134  KENNEDY,       DEBRA         LYNN                                  323.26    3.23  324.45  63.76  714.70
+007-11A-002  LLOYD,   KATHERINE                 LESLIE                          43.11     1.72  42.62   17.45  104.90
+007-11D-010  STONE,   MARGARET               L     ET     AL                    24.98     1.00  24.70   13.07  63.75
+007-11F-003  COHEN,   VICTOR           J     &     HERMAN           (GUARD      2.40      .10           .02    2.52
+007-11G-004  NASSOUR,       IBRAHIM             KHALIL                          59.95     2.40                 62.35
+007-11H-001  RODRIGUEZ,     CARLOS                                              159.87    1.60  158.05  34.66  354.18
+007-11K-003  AMORUSO,       JOHN       JOSEPH             TR       ET     AL    49.96     2.00  49.39   19.10  120.45
+007-12C-003  SHAH,   MINAL       ET       AL                                    49.96     2.00          2.47   54.43
+007-12D-004  TANGA,   ROBERT           S                                        166.86    1.67  164.96  35.85  369.34
+007-12D-008  STOLZ,   GERARD           M                                        49.96     2.00  49.39   19.10  120.45
+007-12F-004  FLAATHEN,      EDGAR            K     ET     AL                    12.50     .50   12.36   3.02   28.38
+007-12F-026  BARRY,   JAMES         F     &     CAROL           J               12.50     .50   12.36   3.02   28.38
+007-12F-034  FLAATHEN,      EDGAR            K     ET     AL                    24.98     1.00  24.70   13.07  63.75
+007-12G-018  PHAM,   THUY                                                       24.98     1.00  24.70   13.07  63.75
+007-12G-023  WHITE,   WALTER           WILLIAM               ET     AL          24.98     1.00  24.70   13.07  63.75
+007-12G-026  LIBERTAS       PROPERTIES                   LLC                    49.96     2.00  49.39   19.10  120.45
+007-12H-001  FOX,   LAURINE         ET       AL                                 49.96     2.00  49.39   19.10  120.45
+007-12J-003  SMITH,   NANCY         L     ET       AL                           163.04    1.63  161.18  35.19  361.04
+007-12J-005  CLARKVIEW      PROPERTIES                    LLC                   49.96     2.00  49.39   19.10  120.45
+007-12K-005  BOATMAN,       FREDDIE             L     &   CHARLOTTE             49.96     2.00  49.39   19.10  120.45
+007-12L-004  FOX,   LAURINE         ET       AL                                 49.96     2.00  49.39   19.10  120.45
+007-12L-019  FOX,   LAURINE         ET       AL                                 24.98     1.00  24.70   13.07  63.75
+007-12N-009  SILVA,   KARL       M                                              12.50     .50   12.36   3.02   28.38
+007-12N-017  WINN,   STEVEN         C     &     JODI         M                  49.96     2.00  49.39   19.10  120.45
+007-12P-020  FOX,   LAURINE         ET       AL                                 79.93     3.20  79.02   26.36  188.51
+007-12Q-014  CHIPPERFIELD,             KOREY             ET     AL              49.96     2.00  49.39   19.10  120.45
+007-12R-018  ALLEN,   DUSTIN           J     &     JODY         L               1,514.06                       1,514.06
+007-13E-002  ORTIZ,   ROBERT                                                    49.71     1.99  49.14   19.05  119.89
+007-13E-005  FOX,   LAURINE         ET       AL                                 49.71     1.99  49.14   19.05  119.89
+007-13G-001  REILEY,     T  PHILLIP                                             49.96     2.00  49.39   19.10  120.45
+007-13G-014  HARDT,   DAVID         DOUGLAS               ET       AL           159.87    1.60                 161.47
+007-13H-008  OWEN,   DANIEL         A                                           12.50     .50   4.24    1.05   18.29
+007-13H-014  ALTSCHLER,     MARK                                                12.50     .50   12.36   3.02   28.38
+007-13I-004  ZEIGER,     MARCUS           &     TAMMY           LEE       ETAL  49.96     2.00  49.39   19.10  120.45
+007-13I-005  FOX,   LAURINE         ET       AL                                 49.96     2.00  49.39   19.10  120.45
+007-13J-005  FOX,   LAURINE         ET       AL                                 49.96     2.00  49.39   19.10  120.45
+007-13K-009  BAHARLOO,      NASSER              &     SHAMSI                    12.50     .50   12.36   3.02   28.38
+007-13K-010  SHAH,   MINAL       ET       AL                                    49.96     2.00          2.47   54.43
+007-13K-011  SHAH,   MINAL       ET       AL                                    49.96     2.00          2.47   54.43
+007-170-005  BILBAO   RANCH         LLC                                         935.10    9.07                 944.17
+007-180-009  MORRIS,     MARK       L     &     JEANETTE               L        470.58    4.71  232.56  29.10  736.95
+007-34H-005  NEAL,   RALPH       &     KRIS           ET     AL                 41.17     1.65  40.70   16.98  100.50
+007-34J-001  HARWOOD,       WILLIAM                                             239.80    2.40  177.78  30.41  450.39
+007-34J-009  ALLEN,   RUSSELL             C                                     2.01                           2.01
+007-340-023  RODRIGUEZ,     RAUL             &     KARMA                        104.55    1.05  .03     17.79  123.42
+007-35B-004  VALENZUELA,         C     PAULETTE                 ET     AL           12.50      .50     12.36   3.02    28.38
+007-35B-016  BEAVER,     VICKIE                                                     12.50      .50     12.36   3.02    28.38
+007-55B-013  GERBER,     MICHAEL                                                    45.39      1.82    36.25   16.33   99.79
+007-550-072  LUCKY   STARR       RANCHING                   LTD                     106.01     1.06    50.20   11.77   169.04
+008-31J-002  TYLER,   HERMAN                                                        49.02      1.96    48.45   18.86   118.29
+008-31R-003  MOGAN,   CHRISTA             HELEN             ET     AL               49.02      1.96    48.45   18.86   118.29
+008-53E-001  O'REILLY,     WALTER               S     &     HELEN         L         117.63                             117.63
+008-54C-002  NASH,   ARTHUR         &     DOROTHY               I   ETAL            39.22      1.57    38.76   16.49   96.04
+008-570-003  MORRISON,     MICHAEL                 O     &     BRIGETT           A  2,584.01   25.84   783.41  178.68  3,571.94
+009-001-001  TORRERO,     JAVIER             &     JOSEFINA                         613.43     6.14    595.56  115.65  1,330.78
+009-005-013  MARS   INVESTMENTS                 LLC                                 32,220.43  322.21                  32,542.64
+009-012-014  BAUTISTA,     MARIA             DE       JESUS                         310.25     3.10    293.80  58.43   665.58
+009-090-003  PIRIE,   RICHARD             &     CAROL                               626.83     6.27    619.56  115.42  1,368.08
+009-100-005  REHAL,   SAKHVIR             SINGH             ET     AL               470.58                             470.58
+009-120-004  HICKS,   RONALD           &     BETTY                                  3,194.43                           3,194.43
+009-15A-002  SHAFFER,     JAMES           R     &     CHERYL           A            156.86     1.57    155.04  34.13   347.60
+009-50A-004  G-VEST   INTERNATIONAL                         LTD                     78.43      3.14    77.52   26.01   185.10
+009-50A-008  G-VEST   INTERNATIONAL                         LTD                     78.43      3.14    77.52   26.01   185.10
+009-51B-003  TEMOKE,     MARY       ET       AL                                     39.22      1.57    38.76   16.49   96.04
+009-58A-040  HUDSON,     JOHN       &     KANDACE                                   58.82      2.35    58.14   21.24   140.55
+009-58B-014  CONTRERAS,       JOSEFINA                   T     TR   ET       AL     58.82      2.35    58.14   21.24   140.55
+010-13C-006  COVERT,     MARK                                                       29.71      1.19    14.54   3.56    49.00
+010-13C-007  COVERT,     MARK                                                       29.71      1.19    14.54   3.56    49.00
+010-13E-046  LA   FAVE,   EVELYN             A                                      29.71      1.19    14.54   3.56    49.00
+010-13E-047  LA   FAVE,   EVELYN             A                                      29.71      1.19    14.54   3.56    49.00
+010-13E-048  LA   FAVE,   EVELYN             A                                      29.71      1.19    14.54   3.56    49.00
+010-13E-049  LA   FAVE,   EVELYN             A                                      29.71      1.19    14.54   3.56    49.00
+010-13I-001  HILL,   LAWRENCE             EDGAR                                     73.82      2.95    58.14   21.24   156.15
+010-14B-010  NRLL   EAST   LLC                                                      29.85      1.19    14.67   3.59    49.30
+010-15F-008  EASTERN     LAND       HOLDINGS                   LLC                  29.85      1.19                    31.04
+010-15G-001  GWK   LIMITED       PARTNERSHIP                                        73.82      2.95    58.14   21.24   156.15
+010-15I-002  LINCOLN,     JIMMY           &     SHARON                              73.82      2.95    58.14   21.24   156.15
+010-16D-014  GUANDIQUE,       CESAR                                                 29.71      1.19    14.54   3.56    49.00
+010-16E-050  CABRERA,     FRANCISCO                   J     &   MANUELA             29.71      1.19    14.54   3.56    49.00
+010-16F-019  ROBINS,     TOMMY         L                                            29.71      1.19    14.54   3.56    49.00
+010-16I-004  ARMSTRONG,       MARTY             &     JOYCE                         73.82      2.95    58.14   21.24   156.15
+010-35B-004  FENT,   RICHARD           A                                            29.01      1.16    13.84   3.40    47.41
+010-35B-031  MILES,   LYNN       E     &     HELENJ                                 29.85      1.19    14.67   3.59    49.30
+010-35B-034  MILES,   LYNN       E     &     HELENJ                                 19.20      .77     4.15    1.01    25.13
+010-35C-002  SHOCKLY,     BARBARA               ANN         ET     AL               22.00      .88     6.92    1.71    31.51
+010-35C-012  WESTERN     USA     HOLDINGS                                           29.85      1.19    14.67   3.59    49.30
+010-35C-053  HOOK,   GERALD         PATRICK                                         29.85      1.19    14.67   3.59    49.30
+010-35D-005  HARRIS,     CONNIE           &     EUGENE             III              29.85      1.19    14.67   3.59    49.30
+010-35D-020  VAN   BRINK,     L     W                                               29.85      1.19    14.67   3.59    49.30
+010-35D-033  FACKLER,     JOHN         L                                            295.31     3.40    284.42  57.81   640.94
+010-35D-034  TRAN,   LAM   ET       AL                                              29.85      1.19    14.67   3.59    49.30
+010-35D-042  WESTERN     USA     HOLDINGS                   LLC                     29.85      1.19    14.67   3.59    49.30
+010-35D-058  AMOS,   ORVILLE           N     &     JOANNE           R               29.85      1.19    14.67   3.59    49.30
+010-35E-019  YOUNG,   CLARA         E     TR                                        73.82      2.95    58.14   21.24   156.15
+010-35E-033  STEVENS,     FLOYD           R     &     N     D                       49.73      1.99                    51.72
+010-35F-031  KAUR,   NARANJIT             ET       AL                               29.29      1.17    14.12   3.47    48.05
+010-35G-010  SMITH,   DAVID         B     &     JUNE           HANN                 29.85      1.19    14.67   3.59    49.30
+010-35G-027  BURNETT,    MARJORY              M     TR                         29.85   1.19                 31.04
+010-35G-044  FINCEL,     JOANN       L                                         29.85   1.19  14.67   3.59   49.30
+010-35G-050  ABDULHAKEEM,         MUSAB                                        59.26   2.37  43.74   17.70  123.07
+010-35H-003  HILLIS,     CHRISTOPHER                   E   ET     AL           29.85   1.19  14.67   3.59   49.30
+010-35H-030  DAVIS,   SHIRLEY           N                                      29.85   1.19  14.67   3.59   49.30
+010-35H-041  DAVIS,   SHIRLEY           N                                      29.85   1.19  14.67   3.59   49.30
+010-35H-052  HADIAN,     MOHAMMED             NASRALLA                         29.85   1.19                 31.04
+010-35I-062  CERVANTES,       PEDRO           C                                24.52   .98   9.41    2.31   37.22
+010-35K-032  ROELSE,     MARGARET             G                                29.85   1.19  14.67   3.59   49.30
+010-35K-042  ANDERSON,   EURELENE                                              29.85   1.19  14.67   3.59   49.30
+010-35M-022  TAYLOR,     DEREK                                                 29.85   1.19  14.67   3.59   49.30
+010-35O-004  OBERHOLZER,       BETTY             L                             29.85   1.19  14.67   3.59   49.30
+010-35O-005  GROSSO,     EVELINA                                               29.85   1.19  14.67   3.59   49.30
+010-35O-034  WRIGHT,     NORMAN         G     ET       AL                      29.85   1.19  14.67   3.59   49.30
+010-35O-054  CORTEZ,     ROSEMARY             L     TR     ET     AL           29.85   1.19  14.67   3.59   49.30
+010-35P-008  STOFFER,    GAIL        A     &     SANDRA           J            44.41   1.78  29.07   14.10  89.36
+010-36A-016  BELL,   JARED     L     ET       AL                               29.57   1.18  14.40   3.53   48.68
+010-36B-026  VERNON,     LANDON         &     B     H                          29.57   1.18  14.40   3.53   48.68
+010-36D-020  SICKLES,    GILL                                                  73.82   2.95  58.14   21.24  156.15
+010-36F-008  JUAREZ,     JOSE     M                                            29.57   1.18  14.40   3.53   48.68
+010-36G-043  TULLY,   ISABELLA             &     ERIN                          29.57   1.18  14.40   3.53   48.68
+010-36H-013  SCHOCH,     DORIS       E                                         29.57   1.18  14.40   3.53   48.68
+010-36H-014  KLINGSHEIM,       ELVIRA                                          29.57   1.18  14.40   3.53   48.68
+010-36H-026  STEVENS,    FLOYD          R     ET       AL                      29.57   1.18                 30.75
+010-36H-036  RZIG,   SALLY     S                                               29.57   1.18  14.40   3.53   48.68
+010-36I-035  TML   LAND  PARTNERS                LLC                           29.57   1.18  14.40   3.53   48.68
+010-36I-054  MENARD,     WALTER         M     JR       &MARY         L         29.57   1.18  14.40   3.53   48.68
+010-36J-037  HARRIS   LAND     &     TIMBER               COMPANY          LL  28.45   1.14          .11    29.70
+010-36K-018  WESTERN     USA   HOLDINGS                                        29.57   1.18  14.40   3.53   48.68
+010-36K-039  EASTERN     LAND     HOLDINGS                 LLC                 29.57   1.18                 30.75
+010-36L-041  GOTTARDI,   JOHN           &     EVELYN           W               29.57   1.18  14.40   3.53   48.68
+010-36L-042  GOTTARDI,   JOHN           &     EVELYN           W               29.57   1.18  14.40   3.53   48.68
+010-36L-052  HARRIS,     CONNIE                                                29.57   1.18  14.40   3.53   48.68
+010-37B-025  MONSON,     TYLER       JAMES                                     29.57   1.18                 30.75
+010-37B-047  KASKA,   RONALD         M     &     ELAINE           H            29.57   1.18  14.40   3.53   48.68
+010-37D-027  SOCHA,   FRANCIS           GEORGE&               GAIL      THE    29.57   1.18  14.40   3.53   48.68
+010-37D-034  FREDRIKSEN,       KIMBERLY                   ET   AL              29.57   1.18  14.40   3.53   48.68
+010-37E-004  GIBBS,   VANESSA           A     ET       AL                      29.57   1.18  14.40   3.53   48.68
+010-37E-033  BRANDENBERG,         ROBERT               W   ET     AL           29.57   1.18  14.40   3.53   48.68
+010-37E-042  BAKKE,   PETER       L                                            29.57   1.18  14.40   3.53   48.68
+010-55A-011  SUTTON,     DONALD         RAY                                    300.01  3.45  287.05  57.48  647.99
+010-55B-007  WALD,   STEVEN                                                    263.46  3.09  61.20   14.15  341.90
+010-56B-021  BURCHARD,   JOSEPH                                                38.53   1.54  23.26   12.69  76.02
+010-56C-020  LASOTA,     JOHN     ETAL                                         38.53   1.54  23.26   12.69  76.02
+010-56C-022  DOHLE,   JULIE                                                    38.53   1.54  23.26   12.69  76.02
+010-56C-036  MOUNCE,     KRISTOPHER                                            38.53   1.54  23.26   12.69  76.02
+010-56D-005  CARDOZA,    LEE                                                   23.53   .94   23.26   12.69  60.42
+010-56D-011  SIETSEMA,   ROSALIE                 LAYOSA                        38.53   1.54  23.26   12.69  76.02
+010-56D-024  PEARSON,    EDWARD            M     &     PHYLLIS          V      38.53   1.54  23.26   12.69  76.02
+010-56E-025  BENTON,     LILLAN         E                                      .19     .01                  .20
+010-57A-021  SULLIVAN,   GARY           R     &     SHERI         L            54.22   2.17  38.76   16.49  111.64
+010-57A-025  OMNI   FOUNDATION                                                 54.22   2.17  38.76   16.49  111.64
+010-57A-030  TML   LAND   PARTNERS                 LLC                        44.41   1.78  29.07   14.10  89.36
+010-57B-028  HARTMAN,     AMY                                                 38.53   1.54                 40.07
+010-57B-031  SICHLEY,     RICHARD               DEAN                          180.88  2.26  166.50  36.15  385.79
+010-57B-046  VALERIO,     ROBERT                                              38.53   1.54  23.26   12.69  76.02
+010-57C-021  PETERSON,       LYNN         E     &     JOAN       H            38.53   1.54  23.26   12.69  76.02
+010-57C-024  WESTERN     USA     HOLDINGS                                     38.53   1.54  23.26   12.69  76.02
+010-57C-025  WESTERN     USA     HOLDINGS                                     38.53   1.54  23.26   12.69  76.02
+010-57D-006  CULLIVER,       CODY                                             67.10   2.68  51.50   19.63  140.91
+010-57E-021  POOLE,   MICHAEL             E                                   38.53   1.54  23.26   12.69  76.02
+010-57E-035  SEVEN   SLEEPERS             DEN         LLC                     38.53   1.54  23.26   12.69  76.02
+010-57E-052  MOORE,   WILLIE           MAE                                    38.53   1.54  23.26   12.69  76.02
+010-57F-033  BENITO,     DOMINIC             PE                               44.41   1.78  29.07   14.10  89.36
+010-57G-013  ASIEDU,     SAMUEL           K                                   38.53   1.54  23.26   12.69  76.02
+010-57H-026  WESTERN     USA     HOLDINGS                 LLC                 38.53   1.54  23.26   12.69  76.02
+010-57I-001  GANNON,     IAN                                                  785.16                       785.16
+010-57J-004  BAIRD,   FLOYD         L     &     EDNA       V                  38.53   1.54  23.26   12.69  76.02
+010-57K-001  CAINES,     JEANETTE                                             38.53   1.54  23.26   12.69  76.02
+010-57K-013  GABRIEL,     TIMOTHY               J                             107.80  1.53  91.03   29.30  229.66
+010-57K-035  MURPHY,     KUNTA         ET       AL                            38.53   1.54  23.26   12.69  76.02
+010-57L-029  CARL,   JOHN     A     &     MILDRED             I     TR        44.41   1.78  29.07   14.10  89.36
+010-57L-054  ROFFE,   LEDFORD                                                 38.53   1.54  23.26   12.69  76.02
+010-57M-024  LA   FAVE,   EVELYN             A                                38.53   1.54  23.26   12.69  76.02
+010-57M-040  HERIAUD,     A   E     &     C     D                             38.53   1.54  23.26   12.69  76.02
+010-57M-041  LOESER,     NIKKIAH             RAVEN                            38.53   1.54  17.45   4.56   62.08
+010-57P-015  ADVANCED     GREEN           RESTORATION                   ENVI  69.34   2.77  53.71   20.17  145.99
+010-57P-018  INFANTE,     JORGE           &     LISA                          44.41   1.78  29.07   14.10  89.36
+010-57Q-013  MYERS,   ROBERT           &     PRISCILLA                        38.53   1.54  23.26   12.69  76.02
+010-57Q-026  SMITH,   RICHARD             ARTHUR&             PATRICIA        38.53   1.54  23.26   12.69  76.02
+010-57R-029  BECK,   FRANK       &     ZITA                                   38.53   1.54  23.26   12.69  76.02
+010-57R-040  STOUWIE,     JOHN         F     &     MARIE         G  ET  AL    38.53   1.54  23.26   12.69  76.02
+010-57R-041  PHILLIPS,       JOSHUA             J                             38.53   1.54  23.26   12.69  76.02
+010-58A-021  MCKELLER,       GENEVA             W                             29.57   1.18  14.40   3.53   48.68
+010-58A-040  KALANT,     CHARLES             A     &   IDA       H  ETAL      29.57   1.18  14.40   3.53   48.68
+010-58C-054  CAMP,   JEFFREY           B                                      53.66   2.15  38.21   16.36  110.38
+010-58D-045  GRBIC,   ANITA         ET       AL                               56.18   2.25  40.70   16.98  116.11
+010-58F-002  PICKLE,     STEVEN           W     &     JUANITA                 35.45   1.42  20.21   4.95   62.03
+010-58F-009  DUDA,   EDWIN       M                                            62.62   2.50  47.07   18.51  130.70
+010-58F-010  MILKE,   RONALD           D                                      56.18   2.25          14.33  72.76
+010-58F-032  DUDA,   BETTY       L                                            87.27   3.49  71.43   24.52  186.71
+010-58F-040  YEAGER,     SABRINA             D     ET     AL                  223.40  2.68  104.36  16.92  347.36
+010-58G-001  LAM,   MINH                                                      44.41   1.78  29.07   14.10  89.36
+010-58G-012  PALERMO,     ARLENE             ET       AL                      29.57   1.18  14.40   3.53   48.68
+010-58G-015  TML   LAND   PARTNERS                 LLC                        29.57   1.18  14.40   3.53   48.68
+010-58H-059  RING,   SAMANTHA                                                 29.57   1.18  14.40   3.53   48.68
+010-58I-001  BENSON,     L'CHAUNTE                                            29.57   1.18  14.40   3.53   48.68
+010-58I-016  FARMER,     CLINTON             P     JR     &MARY               29.57   1.18  14.40   3.53   48.68
+010-58I-018  ABEL,   EDWARD         J                                         29.57   1.18  14.40   3.53   48.68
+010-58J-005  WESTERN     USA     HOLDINGS                                     29.57   1.18  14.40   3.53   48.68
+010-58J-008  TOMASZEWSKI,           GAY         ETAL                          29.57   1.18  14.40   3.53   48.68
+010-58K-014  SMITH,   DAVID         B     &     JUNE       HANN               29.57   1.18  14.40   3.53   48.68
+010-58M-018  WESTERN     USA     HOLDINGS                 LLC                 44.41   1.78  29.07   14.10  89.36
+010-58M-025  WINFREY,     ALAN                                                29.57   1.18  14.40   3.53   48.68
+010-58M-054  WARRICK,     RAY                                                  44.41     1.78   29.07     14.10   89.36
+010-58N-009  MODERN     LAND     &     DEVELOPMENT                   LLC       29.57     1.18   14.40     3.53    48.68
+010-58N-014  PAZ,   RUBEN     M     &     LUZ         MARIE                    29.57     1.18   14.40     3.53    48.68
+010-58N-054  KRINGLE,     DELOS           C     &     MARY       R             29.57     1.18   14.40     3.53    48.68
+010-58O-042  LAM,   JOHNNY       &     MINH           V                        29.57     1.18   14.40     3.53    48.68
+010-58P-016  JACKSON,     REGINALD                 D     JR                    22.28     .89    7.20      1.76    32.13
+010-58P-030  MONTIS,    JAMES          E     SR                                29.57     1.18   14.40     3.53    48.68
+010-58P-033  MONTIS,    JAMES          E     SR                                29.57     1.18   14.40     3.53    48.68
+010-58P-046  CABABA,    MARIETA              G                                 29.57     1.18   14.40     3.53    48.68
+010-58P-058  NARDINI,     LOUIS           G     &     MITZIE         J         29.57     1.18   14.40     3.53    48.68
+010-58R-012  WOOLEMS,     JAMES           D     &     BRENDA         L     TR  29.57     1.18   14.40     3.53    48.68
+010-58R-042  BRYANT,    PAULA          L     ET       AL                       66.26     2.65   50.67     19.41   138.99
+010-58S-006  VANCE,     RONALD         D                                       29.57     1.18   14.40     3.53    48.68
+010-58S-041  VAN   KIRK,   CHARLES                 L     &   LOIS       F      29.57     1.18   14.40     3.53    48.68
+010-58S-042  SOSSMAN,     VIRGIL             &     SHIRLEY                     29.57     1.18   14.40     3.53    48.68
+010-58S-043  MJHC   ENTERPRISE               LLC                               22.28     .89    7.20      1.76    32.13
+010-58S-059  STRAH,     STEVEN         BRIAN                                   22.28     .89    7.20      1.76    32.13
+010-580-007  CASTONA,     SHAWN           &     BEATRICE             M         116.40    1.61   100.22    24.56   242.79
+010-59A-027  MUMMERT,     ROBERT             LEE         &VERULA               29.85     1.19   14.67     3.59    49.30
+010-59A-028  MUMMERT,     ROBERT             LEE         &VERULA               27.04     1.08   11.90     2.92    42.94
+010-59A-029  MUMMERT,     ROBERT             LEE         &VERULA               27.04     1.08   11.90     2.92    42.94
+010-59A-030  MUMMERT,     ROBERT             LEE         &VERULA               29.85     1.19   14.67     3.59    49.30
+010-59A-039  MUMMERT,     ROBERT             LEE         &VERULA               29.85     1.19   14.67     3.59    49.30
+010-59A-040  MUMMERT,     ROBERT             LEE         &VERULA               29.85     1.19   14.67     3.59    49.30
+010-59A-041  MUMMERT,     ROBERT             LEE         &VERULA               27.04     1.08   11.90     2.92    42.94
+010-59A-042  MUMMERT,     ROBERT             LEE         &VERULA               29.85     1.19   14.67     3.59    49.30
+010-59A-043  MUMMERT,     ROBERT             LEE         &VERULA               29.85     1.19   14.67     3.59    49.30
+010-59A-044  MUMMERT,     ROBERT             LEE         &VERULA               27.04     1.08   11.90     2.92    42.94
+010-59A-045  MUMMERT,     ROBERT             LEE         &VERULA               27.04     1.08   11.90     2.92    42.94
+010-59A-046  MUMMERT,     ROBERT             LEE         &VERULA               29.85     1.19   14.67     3.59    49.30
+010-59C-051  CARVER,    GREG        J                                          29.85     1.19   14.67     3.59    49.30
+010-59D-048  SULLIVAN,     JASON             EARL                              29.85     1.19   14.67     3.59    49.30
+010-59D-057  DOWNEY,    CLEYTUS              M                                 29.85     1.19   14.67     3.59    49.30
+010-59E-039  SICHLEY,     RICHARD               DEAN                           44.41     1.78   29.07     14.10   89.36
+010-59E-045  BROWN,     JANET       ANN                                        29.85     1.19   14.67     3.59    49.30
+010-59E-046  MCGOWAN,     BRET                                                 29.85     1.19   14.67     3.59    49.30
+010-59F-002  FOSTER,    JOAN        B                                          29.85     1.19   14.67     3.59    49.30
+010-59F-003  FREDRIKSEN,         KIMBERLY                   ET   AL            29.85     1.19   14.67     3.59    49.30
+010-59F-020  CASTRO,    ALFONSO              M     &     CARMEN         B      29.85     1.19   14.67     3.59    49.30
+010-59G-001  SCHWEIGER,       FRANK             A     ET     AL                29.85     1.19   14.67     3.59    49.30
+010-701-022  BOMARC     DEVELOPMENT                   LLC                      2,198.04                           2,198.04
+010-701-057  BOMARC     DEVELOPMENT                   LLC                      4,197.42                           4,197.42
+010-702-011  RAMIREZ,     SAUL         &     IVAN                              1,234.62  12.35  1,243.62  239.20  2,729.79
+010-703-027  DORADO,    CARLOS            ET       AL                          1,279.98                           1,279.98
+010-704-040  SORIANO,     MIGUEL             ANGEL           ET     AL         2,355.33                           2,355.33
+010-706-019  ESPINA,    JUAN        ET       AL                                421.93    4.22   210.96    27.05   664.16
+010-707-001  COPELAN,     HOWARD             &     CORINNE                     1,275.64  12.76  1,285.40  231.95  2,805.75
+010-74A-002  MANSFIELD,       R     C     ETAL                                 72.55     2.90   72.55     24.76   172.76
+010-740-0AP  MCGEE   1  LLC                                                    1,901.73  19.02  1,901.73  339.81  4,162.29
+010-740-064  BOMARC     DEVELOPMENT                   LLC                      2,737.44                           2,737.44
+010-740-079  BOMARC     DEVELOPMENT                   LLC                      1,394.88                           1,394.88
+010-740-091  NEVADA     STATE       OF                                         3,041.35  30.41  3,073.49  544.86  6,690.11
+010-740-130  BOMARC     DEVELOPMENT                    LLC                        22,929.03                           22,929.03
+010-740-208  BOMARC     DEVELOPMENT                    LLC                        119.46                              119.46
+010-744-021  CEBALLOS,        ARMANDO               P     &     MARIA        G    1,418.50   14.19  1,454.55  261.55  3,148.79
+010-745-004  FLORES,       GRACIELA                                               360.29     3.60   270.21    42.57   676.67
+010-747-002  RUIZ,   ALFREDO           &      HILDA             L                 1,524.96                            1,524.96
+010-747-018  ROMERO,       GABRIEL            ET       AL                         364.59                              364.59
+010-749-001  CARDINAL      CONSTRUCTION                         CORP              52.89      2.12   52.89     19.95   127.85
+010-749-002  CARDINAL      CONSTRUCTION                         CORP              52.39      2.10   52.39     19.85   126.73
+010-749-003  CARDINAL      CONSTRUCTION                         CORP              52.39      2.10   52.39     19.85   126.73
+010-749-004  CARDINAL      CONSTRUCTION                         CORP              53.13      2.13   53.13     20.02   128.41
+010-749-048  CARDINAL      CONSTRUCTION                         CORP              53.62      2.14   53.62     20.14   129.52
+010-749-049  CARDINAL      CONSTRUCTION                         CORP              53.61      2.14   53.61     20.14   129.50
+010-78A-025  ROFF-FUQUAY,              SUSAN           I                          29.85      1.19   14.67     3.59    49.30
+010-78B-026  EVANS,     THOMAS         G      &     BETTY          J              29.85      1.19   14.67     3.59    49.30
+010-78C-026  DOMINGUEZ,          JOSEPH                                           29.85      1.19   14.67     3.59    49.30
+010-78D-013  DOOTY,     MELVIN         F      ET       AL                         29.85      1.19   14.67     3.59    49.30
+010-78E-031  STARKEY,      JAMES           HARTWELL                TR             29.85      1.19   14.67     3.59    49.30
+010-79G-019  BUSCH,     T  E     SR    &      HAZEL             L                 29.85      1.19   14.67     3.59    49.30
+010-80A-020  EAGLE   LAND        LLC                                              30.13      1.21             2.82    34.16
+010-80A-057  MANCINI,      DANIEL             S     ET       AL                   29.57      1.18   14.40     3.53    48.68
+010-80B-022  NRLL   EAST      LLC                                                 29.85      1.19   14.67     3.59    49.30
+010-80B-026  WESTERN       USA      HOLDINGS                 LLC                  29.85      1.19   14.67     3.59    49.30
+010-80B-052  APOCA   OUTPOST           LLC                                        29.57      1.18   14.40     3.53    48.68
+010-80B-056  RASHER,       JAMES       E      &     JENNIFER              L       29.57      1.18   14.40     3.53    48.68
+010-80D-003  THOMAS-ARSENIYADIS,                          ALEXANDRIA              132.65     1.78   116.28    27.35   278.06
+010-80D-019  TML   LAND    PARTNERS                 LLC                           44.41      1.78   29.07     14.10   89.36
+010-80E-009  LAFAVE,       EVELYN          A                                      73.54      2.94   57.86     21.16   155.50
+010-80F-021  NARDINI,      LOUIS           G     &     MITZIE          J          44.41      1.78   29.07     14.10   89.36
+010-80G-010  STUMBO,       FORREST            &     K     DANELLE            ETA  73.82      2.95   58.14     21.24   156.15
+010-80H-004  EAGLE   LAND        LLC                                              29.57      1.18             2.71    33.46
+010-80H-028  RENES,     CECILIA            CLAUDIA                                29.57      1.18   14.40     3.53    48.68
+010-81C-011  SHEA,   JOHN        A     TR                                         29.57      1.18   14.40     3.53    48.68
+010-81E-060  JENKS,     SHIRLEY            A                                      29.57      1.18   14.40     3.53    48.68
+010-81F-008  BOEHLKE,      FERRELL               HUSE                             35.73      1.43   20.49     5.01    62.66
+010-81I-042  BUCHHOLDT,          KIM       &     ANNEMARIE                        29.57      1.18   14.40     3.53    48.68
+011-001-032  COLEMAN,      JUSTIN                                                 34.05      1.36   18.83     4.62    58.86
+011-001-035  THOMAS,       RUBY        ET     AL                                  34.05      1.36   18.83     4.62    58.86
+011-001-065  WAGONER,      MISTY           D                                      34.05      1.36   18.83     4.62    58.86
+011-001-066  WAGONER,      MISTY           D                                      34.05      1.36   18.83     4.62    58.86
+011-001-092  ELKO   CO     TREAS       TR                                         34.05      1.36   18.35     18.97   72.73
+011-001-095  WAGONER,      MISTY           D                                      34.05      1.36   18.83     4.62    58.86
+011-001-096  WAGONER,      MISTY           D                                      34.05      1.36   18.83     4.62    58.86
+011-003-025  BALDON,       LAWRENCE              A                                30.41      1.22   15.23     3.74    50.60
+011-003-052  WRIGHT,       ADILENE                                                30.41      1.22   15.23     3.74    50.60
+011-003-076  HAMPSHIRE,          JUSTIN                                           280.24     3.25   262.30    52.91   598.70
+011-003-080  PATEL,     AMIT                                                      30.41      1.22   15.23     3.74    50.60
+011-003-082  GREEN,     WESLEY         &      MARYBETH                            30.41      1.22   15.23     3.74    50.60
+011-004-025  DALTON,       WANDA       ET        AL                               24.52      .98    9.41      2.31    37.22
+011-004-028  HANA,   BOB      E     &  CARMELA                  R                 24.52      .98    9.41      2.31    37.22
+011-004-030  HANA,   BOB      E     &  CARMELA                  R                 24.52      .98    9.41      2.31    37.22
+011-004-037  FLY   RIGHT      HOLDINGS                 LLC                        24.52      .98    9.41      2.31    37.22
+011-005-005  DEAL,   FRANK          L  &      RUBY           J                    32.65      1.31   17.44     4.29    55.69
+011-005-006  DEAL,   FRANK     L     &  RUBY        J            32.65  1.31  17.44  4.29  55.69
+011-005-027  DEAL,   FRANK     L     &  RUBY        J            32.65  1.31  17.44  4.29  55.69
+011-005-028  DEAL,   FRANK     L     &  RUBY        J            32.65  1.31  17.44  4.29  55.69
+011-005-037  DEAL,   FRANK     L     &  RUBY        J            32.65  1.31  17.44  4.29  55.69
+011-005-038  DEAL,   FRANK     L     &  RUBY        J            32.65  1.31  17.44  4.29  55.69
+011-005-050  PLANT,   FLOYD       D                              32.65  1.31  17.44  4.29  55.69
+011-005-059  DEAL,   FRANK     L     &  RUBY        J            32.65  1.31  17.44  4.29  55.69
+011-005-060  DEAL,   FRANK     L     &  RUBY        J            32.65  1.31  17.44  4.29  55.69
+011-005-092  PLANT,   FLOYD       D                              32.65  1.31  17.44  4.29  55.69
+011-006-034  WALKER,   LEE                                       32.65  1.31  17.44  4.29  55.69
+011-006-035  WALKER,   LEE                                       32.65  1.31  17.44  4.29  55.69
+011-006-036  WALKER,   LEE                                       32.65  1.31  17.44  4.29  55.69
+011-006-050  SEIZED   PROPERTY                                   32.65  1.31  17.44  4.29  55.69
+011-006-076  ALL  FINANCE      LLC                               32.65  1.31  17.44  4.29  55.69
+011-006-093  FRANGOS,    EVANGELOS                               32.65  1.31  17.44  4.29  55.69
+011-007-015  CROWSON,    LORI        L                           32.65  1.31  17.44  4.29  55.69
+011-007-033  MASON,   HELEN                                      32.65  1.31  17.44  4.29  55.69
+011-007-034  MASON,   HELEN                                      32.65  1.31  17.44  4.29  55.69
+011-007-063  MASON,   HELEN                                      32.65  1.31  17.44  4.29  55.69
+011-007-064  MASON,   HELEN                                      32.65  1.31  17.44  4.29  55.69
+011-007-073  FIAD,   ISSA   G                                    32.65  1.31  17.44  4.29  55.69
+011-007-074  FIAD,   ISSA   G                                    32.65  1.31  17.44  4.29  55.69
+011-007-079  LUGO,   SANDRA       ET    AL                       32.65  1.31  17.44  4.29  55.69
+011-008-090  SALAZAR,    JOSE        G                           30.13  1.21  14.95  3.66  49.95
+011-101-000  ROBERTS,    CHRISTOPHER                JAMES        34.05  1.36  18.83  4.62  58.86
+011-101-001  ROBERTS,    CHRISTOPHER                JAMES        34.05  1.36  18.83  4.62  58.86
+011-101-002  ROBERTS,    CHRISTOPHER                JAMES        34.05  1.36  18.83  4.62  58.86
+011-101-023  ROBERTS,    CHRISTOPHER                JAMES        34.05  1.36  18.83  4.62  58.86
+011-101-024  ROBERTS,    CHRISTOPHER                JAMES        34.05  1.36  18.83  4.62  58.86
+011-101-025  ROBERTS,    CHRISTOPHER                JAMES        34.05  1.36  18.83  4.62  58.86
+011-101-092  SLABAUGH,     ERIC         MICHAEL        ET  AL    34.05  1.36  18.83  4.62  58.86
+011-101-094  PERKINS,    PENSRI         JANE                     34.05  1.36  18.83  4.62  58.86
+011-101-095  HEMATULIN,     VIPA                                 34.05  1.36  18.83  4.62  58.86
+011-103-029  BESIC,   ALDIJANA                                   30.41  1.22  15.23  3.74  50.60
+011-103-033  MUSSELMAN,     LARRY          T     &  CAROL     A  30.41  1.22  15.23  3.74  50.60
+011-103-060  FLY  RIGHT    LLC                                   30.41  1.22  15.23  3.74  50.60
+011-103-062  UNMANNED    LAND        LLC                         30.41  1.22  15.23  3.74  50.60
+011-103-063  UNMANNED    LAND        LLC                         30.41  1.22  15.23  3.74  50.60
+011-103-069  MONJARAS,     JULIO                                 30.41  1.22  15.23  3.74  50.60
+011-103-094  BENNETT,    JACK        L                           30.41  1.22  15.23  3.74  50.60
+011-103-095  BENNETT,    JACK        L                           30.41  1.22  15.23  3.74  50.60
+011-104-026  SANDOVAL,     ERIC         IGNATIUS                 27.89  1.12  12.74  3.13  44.88
+011-104-058  FLY  RIGHT    LLC                                   27.89  1.12  12.74  3.13  44.88
+011-104-095  SCHAEFER,     PATRICIA              I               27.89  1.12  12.74  3.13  44.88
+011-104-096  SCHAEFER,     PATRICIA              I               27.89  1.12  12.74  3.13  44.88
+011-106-011  KHAN,   ANWAR     Z                                 32.65  1.31  17.44  4.29  55.69
+011-106-015  SANDHU,   SALMAN           IQBAL                    32.65  1.31  17.44  4.29  55.69
+011-106-043  SMILE4U   INC                                       32.65  1.31  17.44  4.29  55.69
+011-107-013  REED,   TRAVIS       ET    AL                       32.65  1.31  17.44  4.29  55.69
+011-107-093  VAUGHN,   TIMOTHY          A     &     SALLY  A     32.65  1.31  17.44  4.29  55.69
+011-107-094  VAUGHN,   TIMOTHY          A     &     SALLY  A     32.65  1.31  17.44  4.29  55.69
+011-108-003  GAVENDA,    KRISTEN           &     HILARY          30.13  1.21  14.95  3.66  49.95
+011-108-004  GAVENDA,    KRISTEN            &     HILARY                  30.13     1.21   14.95   3.66   49.95
+011-108-010  HAWKINS,    SEAN                                             30.13     1.21   14.95   3.66   49.95
+011-11J-020  RAY,   BRIAN   D                                             251.95                          251.95
+011-201-049  HARPER,     DONAL     R     &     DEBBIE      J              34.05     1.36   18.83   4.62   58.86
+011-203-023  HALL,   MICHAEL       D     &     LORI    A                  30.41     1.22   15.23   3.74   50.60
+011-203-032  BINGHAM,    FRANCIS            &     ROBERT      A           30.41     1.22   15.23   3.74   50.60
+011-203-040  KECK,   MYUNG     SOON                                       30.41     1.22   15.23   3.74   50.60
+011-205-018  KUNSELMAN,     TODD                                          32.65     1.31   17.44   4.29   55.69
+011-205-024  BURKE,   EVERETT         A                                   32.65     1.31   17.44   4.29   55.69
+011-205-038  WOOD,   SHARON     M                                         32.65     1.31   17.44   4.29   55.69
+011-205-040  MILLER,     MARTIN       D                                   32.65     1.31   17.44   4.29   55.69
+011-205-042  MILLER,     MARTIN       D                                   32.65     1.31   17.44   4.29   55.69
+011-205-043  WOOD,   SHARON     M                                         32.65     1.31   17.44   4.29   55.69
+011-207-016  HOLLIS,     MORGAN                                           32.65     1.31   17.44   4.29   55.69
+011-207-023  VAUGHN,     TIMOTHY         A     &   SALLY      A           32.65     1.31   17.44   4.29   55.69
+011-207-024  VAUGHN,     TIMOTHY         A     &   SALLY      A           32.65     1.31   17.44   4.29   55.69
+011-207-035  ESSEX,   CHARLES         R     &     CLAUDIAN          J     32.65     1.31   17.44   4.29   55.69
+011-207-036  ESSEX,   CHARLES         R     &     CLAUDIAN          J     32.65     1.31   17.44   4.29   55.69
+011-207-045  ESSEX,   CHARLES         R     &     CLAUDIAN          J     32.65     1.31   17.44   4.29   55.69
+011-207-046  ESSEX,   CHARLES         R     &     CLAUDIAN          J     32.65     1.31   17.44   4.29   55.69
+011-208-024  MUELLER,    RUDY      &     KATHERINE            L           30.13     1.21   14.95   3.66   49.95
+011-208-058  VALERA,     HAZEL                                            30.13     1.21   14.95   3.66   49.95
+012-001-005  PALOMAR,    NORBERTO              M   JR  &   CAROLI         64.58     2.58   1.96    3.27   72.39
+012-010-004  WAMSLEY,    WILLIAM                                          1,091.76  10.92  275.50  55.71  1,433.89
+012-015-003  NUNN,   MARSHALL         &     KELI                          476.32    4.76   43.90   8.11   533.09
+012-018-003  TANAKA,     DAVID     J                                      51.44     2.06   48.71   18.95  121.16
+012-027-004  BACH,   EDWARD     E     &     CONSTANCE            M        23.34     .93    22.11   12.41  58.79
+012-030-002  MENDOZA,    MAX    E     ET       AL                         51.44     2.06   48.71   18.95  121.16
+012-032-003  BACH,   EDWARD     E                                         51.44     2.06   48.71   18.95  121.16
+012-033-007  KONKEL,     RAYMOND         W     &   HILDA                  53.47     2.14   50.64   19.40  125.65
+012-036-001  TML   LAND  PARTNERS              LLC                        48.87     1.95   45.70   18.20  114.72
+012-038-008  ADG   REAL  ESTATE          DEVELOPMENT                INC   48.87     1.95   45.70   18.20  114.72
+012-045-004  GRAHAM,     STEPHEN                                          48.87     1.95   45.70   18.20  114.72
+012-051-006  OLIVO,   ELIZABETH                                           34.72     1.39                  36.11
+012-054-003  SADD,   BARBARA       MCKNIGHT                               34.72     1.39   32.31   14.92  83.34
+012-060-006  ELIAS,   JEREMY                                              34.72     1.39   32.31   14.92  83.34
+012-064-004  NIST,   JOHN   R   &     LOIS         LETAL                  32.76     1.31   31.02   14.60  79.69
+013-025-010  DARR,   CHARLES       L     &     RACHEL      S              29.14     1.17   27.02   13.63  70.96
+013-031-010  VARGA,   GEORGE       (GYORGY)                               51.93     2.08   51.21   19.55  124.77
+013-031-018  VARGA,   GEORGE       (GYORGY)                               51.93     2.08   51.21   19.55  124.77
+013-032-001  CARBURY,    NORMAN          J                                29.14     1.17                  30.31
+013-035-013  LEMAY,   PATRICIA           DANSBY        ET     AL          13.95     .56    13.14   3.23   30.88
+013-040-006  GOEHRING,     RICHARD             E                          29.14     1.17   27.02   13.63  70.96
+013-042-003  WEEKS,   ZEB                                                 13.95     .56    13.14   3.23   30.88
+014-003-004  ANDREWS,    WALTER          B                                29.14     1.17           7.00   37.31
+014-012-013  VICTORIN,     CARLINE                                        29.15     1.17   5.53    1.37   37.22
+014-012-014  HAJDO,   GERTA     ET       AL                               31.11     1.24   28.84   14.06  75.25
+014-016-010  HAJDO,   GERTA     ET       AL                               23.91     .96    22.87   12.59  60.33
+014-016-011  HAJDO,   GERTA     ET       AL                               23.91     .96    22.87   12.59  60.33
+014-018-006  FENN,   LYLE      ETAL                                       21.94     .88    21.05   12.16  56.03
+014-019-006  ESPENSCHIED,       RONALD             ROBERT        ET    A  29.14     1.17                  30.31
+014-021-008  QUINONEZ,     PEDRO         A                                21.94     .88    21.05   12.16  56.03
+014-025-007  HUNT,   CHARLES         G     &     ROSE                         21.94     .88   21.05   12.16  56.03
+014-026-020  GABREL,     MICHAEL           GLENN           ET     AL          14.43     .58   13.63   3.33   31.97
+015-101-001  JONES,   MILTON         D                                        16.96     .68   1.94    .50    20.08
+016-003-003  WEBSTER,     JAMES         &     MELISSA                         21.19     .85   20.06   4.91   47.01
+016-003-007  SMITH,   DARYLE         &     AMARJIT                            21.61     .86   20.47   5.01   47.95
+017-001-003  DAY,   DAVID   L     ET       AL                                 19.98     .80   19.76   4.83   45.37
+017-003-004  LEE,   HELEN                                                     19.98     .80   19.76   4.83   45.37
+017-004-003  GARCIA,     JUAN     B                                           19.98     .80   19.76   4.83   45.37
+017-006-005  DAY,   DAVID   L     ET       AL                                 19.98     .80   19.76   4.83   45.37
+017-006-007  SIEZED   PROPERTY                                                19.98     .80   19.76   4.83   45.37
+017-006-008  SEIZED   PROPERTY                                                19.98     .80   19.76   4.83   45.37
+017-008-008  JKST   III   LLC                                                 19.98     .80   19.76   4.83   45.37
+017-010-003  SPAIRO,     ANGEL                                                19.98     .80   19.76   4.83   45.37
+017-018-006  LUNA,   FRANCISCO             JAVIER                             19.98     .80   19.76   4.83   45.37
+017-020-003  TELFOR,     DANIELLE             DEMETRUS                        19.98     .80   19.76   4.83   45.37
+017-021-004  KAUFER,     DONALD         B                                     21.94     .88   21.05   12.16  56.03
+017-022-003  REYNOLDS,     SALLY           L                                  19.98     .80   19.76   4.83   45.37
+017-028-003  VAUGHAN,     CATHERINE                 ETAL                      21.94     .88   21.05   12.16  56.03
+017-028-005  KAUFER,     DONALD         B                                     21.94     .88   21.05   12.16  56.03
+017-032-001  SHEARER,     STEPHEN                                             19.98     .80   19.76   4.83   45.37
+017-036-003  LEIVA,   ROGER                                                   16.95     .68   16.11   3.94   37.68
+017-040-001  SMITH,   BRIAN       K     &     SHANNON             M           21.94     .88   21.05   12.16  56.03
+017-040-003  POWELL,     JAMES       T     &     LOIS      I                  21.94     .88   21.05   12.16  56.03
+017-041-004  HAGEN,   A   DUANE         &     RONDA        G                  21.94     .88           7.00   29.82
+017-042-008  FORST,   STACEY         LYNNE                                    21.94     .88   21.05   12.16  56.03
+017-049-002  PLEAU,   KATHERINE               L                               21.94     .88   21.05   12.16  56.03
+017-049-007  PLEAU,   KATHERINE               L                               21.94     .88   21.05   12.16  56.03
+017-051-003  GUTIERREZ,     JESS           R     &   DAISY           T  WIS   16.95     .68   16.11   3.94   37.68
+017-060-003  GLASS,   MAE   P                                                 21.94     .88   21.05   12.16  56.03
+017-060-004  GLASS,   MAE   P                                                 21.94     .88   21.05   12.16  56.03
+017-060-006  CHURCH   OF   ILLUMINISM                   USA       LLC         21.94     .88   21.05   12.16  56.03
+018-001-005  HAMILL,     STEPHEN           V                                  55.75     2.23  41.11   17.07  116.16
+018-004-002  JACKLIN,     CLARENCE               C      &  SANDRA          J  231.87    2.32  .30-    .30    234.19
+018-004-004  THOMPSON,     LLOYD           W     TR                           264.07    2.64  131.32  19.47  417.50
+018-005-005  THRASHER,     HENRY           A                                  32.76     1.31  31.02   14.60  79.69
+018-013-007  KIRSCHNER,     KATHLEEN                 P                        32.76     1.31  31.02   14.60  79.69
+019-010-004  THUEMLER,     PATRICK               &   JULIE                    1,500.35                       1,500.35
+019-015-003  MAURITHO,     DOROTHY               M   &     ROGER        V     29.35     1.17  29.01   14.10  73.63
+020-008-001  JOSEPHSON,     DAVID             &     TERESA                    399.36    3.99  394.81  76.10  874.26
+020-011-012  WOLHAR,     KENNETH           R                                  29.35     1.17  29.01   14.10  73.63
+022-001-009  PURKISS,     THOMAS                                              2.52      .10   2.49    .60    5.71
+022-011-027  SALAZ,   RAY   G     &     ROSE         M                        2.52      .10           .04    2.66
+022-011-028  SALAZ,   RAY   G     &     ROSE         M                        2.52      .10           .04    2.66
+022-011-030  WILLIS,     GEORGE         T     &     GAIL       E              2.52      .10   2.49    .60    5.71
+022-014-029  ORSETTI,     STEVEN           PAUL                               2.52      .10   2.49    .60    5.71
+022-014-030  ORSETTI,     STEVEN           PAUL                               2.52      .10   2.49    .60    5.71
+022-014-031  ORSETTI,     STEVEN           PAUL                               2.52      .10   2.49    .60    5.71
+022-014-032  ORSETTI,     STEVEN           PAUL                               2.52      .10   2.49    .60    5.71
+022-020-019  BEDSAUL,     FLOYD         G                                     2.52      .10   2.49    .60    5.71
+022-020-027  JOHNSON,     RICHARD             H                               2.52      .10   2.49    .60    5.71
+022-020-028  JOHNSON,     RICHARD             H                               2.52      .10   2.49    .60    5.71
+022-021-015  HESS,   JAMES     E     ET       AL                              2.52      .10   2.49    .60    5.71
+022-021-016  HESS,   JAMES     E     ET       AL                                2.52    .10   2.49    .60     5.71
+022-024-005  KAELBERER,     SANDRA               L                              2.52    .10   2.49    .60     5.71
+022-024-016  SHEPHERD,     JERITA             TR                                2.52    .10   2.49    .60     5.71
+022-027-008  TELLINGTON,       ROBIN                                            5.32    .21   5.26    1.28    12.07
+022-039-001  DALZELL,    WAYNE          D                                       9.80    .39   9.69    2.37    22.25
+023-002-008  LEE,   MATTHEW       &     MIQUELA                                 136.89        .46-    .46     136.89
+023-013-001  FELZIEN,    BENJAMIN                R                              192.56  1.93  182.35  38.91   415.75
+023-017-001  PASZEK,     CAROLYN                                                182.55  1.83  129.36  24.03   337.77
+023-017-008  PASZEK,     CAROLYN                                                929.84  9.30  921.73  176.78  2,037.65
+023-019-012  SCHROEDER,     ALLEN             R                                 548.55  5.49          7.00    561.04
+024-002-009  REINSTEIN,     RICK                                                8.54    .34   8.44    2.07    19.39
+024-003-005  REINSTEIN,     ARTHUR               RICHARD             JR     ET  16.66   .67   15.79   3.87    36.99
+024-004-008  PHILLIPS,     EDWARDO               E                              44.44   1.78  42.07   17.29   105.58
+024-009-001  QUINN,   JACK     &     DARLENE                                    33.32   1.33  31.55   14.72   80.92
+024-010-001  KIDD,   RICHARD         G     &     CAROLYN             R          33.32   1.33          5.68    40.33
+024-014-007  DUNLAP,     MAKAYELA             S     ET       AL                 36.45   1.46  34.53   15.47   87.91
+024-014-009  MURPHY,     VIRGINIA             I                                 18.45   .74   17.46   4.29    40.94
+024-023-008  DAY,   DAVID   L     &     SADD,             BARBARA           M   16.66   .67   15.79   3.87    36.99
+024-026-012  RICCIO,     ROBERT         J                                       15.44   .62   14.62   3.57    34.25
+024-030-010  ROZYCKE,    RAYMOND              ET       AL                       25.98   1.04  34.53   15.47   77.02
+024-038-001  DELGADO,    ROCIO          ET       AL                             7.71    .31   7.62    1.85    17.49
+024-042-003  SOUZA,   LOUIS       E     &     NANCY           K                 36.45   1.46  34.53   15.47   87.91
+024-048-007  LASSART,    JOHN        P                                          36.45   1.46  34.53   15.47   87.91
+024-056-008  GOOD,   JEFFREY         R                                          33.32   1.33  31.55   14.72   80.92
+024-057-002  CRUSE,   DAVID       L     ET       AL                             38.35   1.53  36.31   15.89   92.08
+024-068-003  GREEN,   R  MATTHEW                                                330.07  3.30  331.31  65.41   730.09
+024-069-004  MANN,   JONNIE       M     ET       AL                             21.30   .85   21.05   12.16   55.36
+025-001-005  SCOTT,   NANCY       L     &     DONALD                            19.98   .80   19.76   4.83    45.37
+025-002-005  GRCICH,     ANTHONY           &     EVELYN                         19.98   .80   19.76   4.83    45.37
+025-008-002  WILLIAMS,     ERIC         &     ERIKA                             19.98   .80   19.76   4.83    45.37
+025-009-008  CHAMBERS,     ALVIN           M                                    19.98   .80   19.76   4.83    45.37
+025-012-008  ROUSE,   SALLY                                                     19.98   .80   19.76   4.83    45.37
+025-031-001  SCHWEIGER,     FRANK             A     ET       AL                 19.98   .80   19.76   4.83    45.37
+025-033-006  COHEN,   AARON       SOLOMON                                       19.98   .80   19.76   4.83    45.37
+025-044-004  BOCHENEK,     VIVAIN             AHOS                              19.98   .80   19.76   4.83    45.37
+025-054-007  MOORE,   DALE     C     &     RACHEL                               19.98   .80   19.76   4.83    45.37
+025-054-008  MOORE,   DALE     C     &     RACHEL                               19.98   .80   19.76   4.83    45.37
+025-057-002  NOYCE,   PATRICK           A     &     WILLIAM             G   JR  19.98   .80   19.76   4.83    45.37
+025-060-002  GUETSCHOW,     GERALD                                              19.98   .80   19.76   4.83    45.37
+026-006-007  BRECKNER,     FRANK           W     &     J                        29.69   1.19  29.35   14.17   74.40
+026-006-008  BRECKNER,     JOHN         P     &     F     W                     29.69   1.19  29.35   14.17   74.40
+026-007-003  HALL,   KEVIN     DELANO               &     JAMIE         R       29.69   1.19  29.35   14.17   74.40
+026-018-007  EDGMON,     CAROL       ETAL                                       64.95   2.60          6.10    73.65
+026-019-001  MATTHEWS,     PAUL         J     &     FRANCES             L   &   64.95   2.60          7.00    74.55
+026-023-002  PEDEN,   CECIL       PATIRCK                                       180.51  1.81  175.70  37.74   395.76
+026-029-006  ANZALONE,     ANTHONY               P                              10.99   .44   10.87   2.65    24.95
+026-039-009  BOLLES,     PHILLIP                                                16.06   .64   15.21   3.73    35.64
+026-046-001  SCHULTZ,    ROBERT            LYN                                  43.54   1.74  41.22   17.09   103.59
+027-010-006  POMMERENING,         MITCHELL                   JAN                113.59  1.20          3.33    118.12
+027-010-007  POMMERENING,         MITCHELL                   JAN                74.99   3.00          3.33    81.32
+027-011-007  SALMONS,    CARL        E     SR       ET       AL                 67.68   2.71  64.05   22.67   157.11
+027-014-008  MCDARMENT,     WILLIAM                 A     SR     ET     AL      189.43  1.95  40.36   14.29   246.03
+027-018-002  KAY,   JEREMY       &     KATIE                                       377.35    3.83   213.38  44.34  638.90
+027-026-002  OBERDING,     JAMES             F     ET       AL                     74.99     3.00   4.29    1.06   83.34
+027-038-006  MARTIN,   WILLIAM               A     &     KATHLEEN               L  2.89      .11                   3.00
+027-042-003  BATES,   JERRY         D     &     MONICA             S               248.01                          248.01
+027-043-001  ALEXANDER,       DANIEL               S                               354.46    3.60   305.78  60.51  724.35
+028-019-003  RICHARDS,     TROY                                                    394.85    4.01   420.48  80.89  900.23
+028-021-006  BELT,   ERIC     S     &     TERESA             ET       AL           307.92    3.14   306.75  75.25  693.06
+028-023-001  HARRIS,   WARREN             A     &     LISA         N               6.03                            6.03
+028-024-001  RICHARDS,     TROY                                                    83.13     3.33   82.03   27.08  195.57
+030-010-008  PETERSEN,     M     G                                                 32.85     1.31   31.83   14.81  80.80
+030-014-008  HAY,   KATHRYN                                                        17.40     .70    16.56   4.06   38.72
+030-015-008  HEGGE,   DENNIS           &     BO                                    32.85     1.31   31.83   14.81  80.80
+030-018-001  JOHNS,   ROBERT           G     &     BOBBIE             J            32.85     1.31   31.83   14.81  80.80
+030-020-005  ROZMUS,   MICHAEL               J                                     18.60     .74    17.74   4.35   41.43
+030-020-009  ROZMUS,   MICHAEL               J                                     18.89     .76    18.03   4.41   42.09
+030-020-010  ROZMUS,   MICHAEL               J                                     18.89     .76    18.03   4.41   42.09
+030-026-006  BABER,   DARRYL           E     ET       AL                           270.29    2.70                  272.99
+031-005-009  WILLIAMS,     CHARLES                 &     BILLIE                    11.32     .45    10.73   2.63   25.13
+031-007-001  CAMPBELL,     RICHARD                 A                               11.32     .45    10.73   2.63   25.13
+031-007-004  REEDER,   KEVEN           JOHN                                        11.32     .45    10.73   2.63   25.13
+031-010-007  GIL,   EDWART       M     ET       AL                                 11.32     .45    10.73   2.63   25.13
+031-011-016  GRAHAM,   MARK         A     &     TERRI           L                  11.32     .45    10.73   2.63   25.13
+031-011-017  REINSCHMIDT,           RACHEL                                         23.49     .94    22.25   12.47  59.15
+031-011-019  WARREN,   V   SUZANNE                                                 11.32     .45    10.73   2.63   25.13
+031-011-038  ONCE   UPON   A     BRICK             INC                             11.32     .45    10.73   2.63   25.13
+031-011-042  HAMMETT,     JOHN                                                     11.32     .45    10.73   2.63   25.13
+031-012-020  PORTER,   BRANDON               BURKE                                 .16       .01                   .17
+031-016-004  DIAL,   LEON     T     &     F     EILEEN                             9.99      .40    9.88    2.41   22.68
+031-018-013  DAY,   DAVID     L     &     SADD,             BARBARA             M  12.96     .52    12.69   3.12   29.29
+031-020-014  OLDHAM,   BOYD         R     &     WILMA                              10.99     .44    10.87   2.65   24.95
+031-027-010  COLLIER,     JAMES                                                    11.96     .48    11.70   2.88   27.02
+032-001-048  SALAICES,     BIVIANA                                                 350.47    3.51   332.11  65.13  751.22
+032-003-012  AGUILAR,     MARTIN             &     MARIA                           92.56     3.70           13.27  109.53
+032-005-022  ORTIZ,   ANTONIO             &     VALENTINA                          .73       .03                   .76
+032-005-067  FAHIMI,   SAEED                                                       92.56     3.70   87.10   28.36  211.72
+032-008-008  ORTIZ,   ANTONIO             S     &     VALENTNA               A     90.98     3.64   85.59   27.96  208.17
+032-009-013  ORTIZ,   VALENTINA                 A     &     ANTONIO                .73       .03                   .76
+032-009-016  ORTIZ,   ANTONIO             S     &     VALENTNA               A     69.91     2.80   65.65   23.10  161.46
+032-016-013  MILLES,   GEORGE             P     ET       AL                        61.91     2.48   60.56   21.82  146.77
+032-017-008  TOM,   JEFFERY         ET       AL                                    61.91     2.48   60.56   21.82  146.77
+032-105-012  POLLOCK,     TIMOTHY               E                                  101.66    1.02   95.70   30.46  228.84
+034-017-004  TYRONE,   MARY         E                                              21.94     .88    20.59   12.04  55.45
+034-028-004  HENDRICKSON,           JORDAN               W                         21.94     .88    20.59   12.04  55.45
+034-039-001  BARGER,   LARRY           &     MARLENE                               21.94     .88    20.59   12.04  55.45
+035-002-003  CHAMBERLAIN,           DONALD               CRAIG                     58.61     2.34   54.94   20.48  136.37
+035-008-006  SHULL,   WILLIAM             S     &     MARJORIE               A     58.61     2.34   54.94   20.48  136.37
+035-017-003  SALAZAR,     ABEL                                                     58.61     2.34   54.94   20.48  136.37
+035-017-004  SALAZAR,     ABEL                                                     58.61     2.34   54.94   20.48  136.37
+035-019-006  LUCERO,   SONDRA             M     TR                                 988.46    9.89                  998.35
+035-054-001  SPENCER,     BRAD         &     TAMARA                                58.61     2.34   54.94   20.48  136.37
+036-002-005  CLARKE,   LORIE           J                                           1,107.42  11.07  243.82  13.09  1,375.40
+036-003-007  ORTIZ   SERRANO,             ANTONIO               ET       AL        55.90     2.24   52.37   19.84  130.35
+036-005-004  DORSEY,   DOUGLAS           D                                  28.78     1.15   26.69     13.53   70.15
+036-007-002  RATLIFF,     CHARLES           L   ET     AL                   259.28    2.59   241.55    49.27   552.69
+036-010-007  OPPENHEIN,     ERIKA           M                               330.54    3.31                     333.85
+036-012-002  BROUSE,   WILLIAM           C                                  55.90     2.24   52.37     19.84   130.35
+036-022-003  MONJARAS,    SHERRI                                            55.90     2.24   52.37     19.84   130.35
+036-028-005  RICHARDS,    MICHAEL              LYNN       ET     AL         332.28    3.32             7.00    342.60
+036-034-006  THONG,   PHILLIP                                               21.66     .87    20.76     12.08   55.37
+036-043-002  DI   PASQUALE,     FRANK                                       21.66     .87    20.76     12.08   55.37
+036-044-006  GROSS,   JUNE                                                  21.66     .87    20.76     12.08   55.37
+036-045-001  WADSACK,     RICHARD           OLAN       MASARU           ET  21.66     .87    20.76     12.08   55.37
+036-054-007  SALVATION    ARMY        THE                                   1.96      .08    1.29      .31     3.64
+036-056-004  NEMATOLLAHI,       KAMRAN             ET     AL                11.95     .48    11.17     2.73    26.33
+036-056-007  SALVATION    ARMY        THE                                   1.96      .08    1.29      .31     3.64
+036-062-008  LARSEN,   CHRISTOPHER                 LAURENCE             &   11.95     .48                      12.43
+037-001-005  AUSTIN,   MATHEW         WEBB         &   CHERI         A      292.89    2.93   70.93     30.12   396.87
+037-031-006  HAMZA   HOLDINGS         LIMITED                               39.36     1.57   38.26     16.38   95.57
+037-031-007  HAMZA   HOLDINGS         LIMITED                               39.36     1.57   38.26     16.38   95.57
+037-033-003  LOPEZ,   MAXWELL         JOSEPH                                46.78     1.87   45.60     18.17   112.42
+037-033-008  FANNING,     JOHN     ET       AL                              46.78     1.87   45.60     18.17   112.42
+037-064-004  JOHNSON,     JEREMIAH             HARLEY                       678.86    6.79   472.29    69.20   1,227.14
+040-002-012  SUNBEAM   DAM   PROPERTIES                   LLC               248.42    2.54   235.21    48.15   534.32
+040-002-013  SUNBEAM   DAM   PROPERTIES                   LLC               248.42    2.54   116.68    19.06   386.70
+040-004-020  LEE,   SANG-YUP                                                231.51    2.37   219.18    45.36   498.42
+040-005-011  STEERS,   MATTHEW           J                                  1,351.56                           1,351.56
+041-001-021  NOLAND   PAUL   D     ET       AL                              2,567.94                           2,567.94
+041-006-061  TANAKA,   RAY   KIYOSHI               &TOMIE        YAMA       231.51    2.37   109.60    17.40   360.88
+041-008-014  WILLIAMS,    JORDAN            &   ANGELIKA                    1,523.97                           1,523.97
+042-004-015  EASTMAN,     JEANNE         TR                                 3,247.51  32.53  756.68    88.99   4,125.71
+043-011-022  FAST,   ETHAN   JOHN           &   TAMARA           SHAWN      896.58                             896.58
+043-017-005  JESSEN,   TRAELA         M     ET     AL                       2,311.47  23.17  1,105.24  111.99  3,551.87
+044-002-014  CULP,   ROBERT     D     &     JOYCE         L                 1,240.86  12.47  1,204.63  217.82  2,675.78
+045-001-004  ALLISON,     BRET     M     &     JOANN                        523.46    5.29   260.26    76.59   865.60
+045-001-020  JONES,   KRIS   E     &     TONI                               447.89    4.54   436.82    83.45   972.70
+045-003-035  CHARGIN,     DAVID       WOLFGANG                              465.33    4.71   461.49    87.93   1,019.46
+045-003-045  HAMMOND,     MARTIN         &     LORI                         1,294.25  13.00  983.43    136.50  2,427.18
+045-003-084  ONTIVEROS,     JORGE           M   &     CLAUDIA           Y   280.20    2.86   134.26    19.76   437.08
+045-007-004  HAMILTON,    JACOB                                             418.47                             418.47
+045-007-005  HAMILTON,    JACOB                                             388.40    3.94   193.12    25.35   610.81
+045-007-016  STARKEY,     HERBERT           L   &     NELLIE         M      376.32    3.82   372.46    72.16   824.76
+045-009-069  APPLEGATE,     VALARIE             A     ET     AL             839.49                             839.49
+045-009-075  SHOOK,   SCOTT     ARTHUR                                      355.72    3.62                     359.34
+045-009-087  VILLANUEVA,     ERIKA             MADRIGAL          ETAL       687.69    6.94                     694.63
+045-010-035  LUSICH,   PETER       L     III       &   DIANE         KTR    526.34    5.32   263.00    31.98   826.64
+045-010-065  BUTTERS,     JOHN     J     JR     &     KATIE      L          371.65    3.78   175.53    53.11   604.07
+045-011-043  CAMPBELL,    JACOB          &     LARIN                        399.87    4.06   395.45    76.22   875.60
+045-011-054  YARDLEY,     DANIEL         R                                  553.17    5.59   464.85    88.34   1,111.95
+045-011-067  EMBRY,   VINCENT         M                                     500.25    5.06   5.00      .32     510.63
+045-012-015  STRACK,   LEEROY         &     MARY                            581.52    5.88   431.43    76.04   1,094.87
+045-012-025  MOTHERSHEAD,       JACOB           WADE         ET  AL         927.95    .35                      928.30
+045-013-026  WARNER,   JENNY       M                                        555.66                             555.66
+045-014-030  HILBERT,     DAVID       J     &   TONI                        981.91    9.88   991.83    180.59  2,164.21
+045-018-037  ESC   GROUP  LLC                                               324.06                             324.06
+045-018-045  GARCIA,     OMAR      USIEL             VAZQUEZ             ETAL     1,013.85  10.20  771.39    108.57  1,904.01
+045-018-078  KRAUSE,     MICHAEL                                                  770.82    7.77   82.61     12.37   873.57
+045-019-003  FLORES,     MOISES          I                                        487.89    4.94   363.11    55.82   911.76
+045-020-024  DEEBOB      INVESTMENTS                 LLC                          389.62    3.96   335.79    73.85   803.22
+045-021-008  BARNETT,    DEREK           &     JAQUELYN                           465.53    4.71   460.20    89.16   1,019.60
+045-023-001  LANNING,    STEVEN             W     &     MYLISSA          L        790.75    7.97   392.78    45.72   1,237.22
+045-025-037  BAGGERLEY,       ANDREW              &     KORRIANNA                 1,094.90  11.01  556.50    59.88   1,722.29
+045-028-012  SHAPPERT,        CHRISTOPHER                                         722.38    7.28   350.73    101.13  1,181.52
+045-030-042  LEGION      CONSTRUCTION                   &     DEVELOPME           240.90                             240.90
+045-031-031  HANSEN,     JAYLYNN            J     &     VICKIE                    522.89    5.29   359.07    70.51   957.76
+045-033-002  HUGHES,     AARON        T     ET       AL                           545.30    5.51             7.00    557.81
+045-033-004  CHENEY,     WALTER          J                                        1,022.90  10.29  519.04    56.32   1,608.55
+045-035-007  WEAVER,     BRYCE        H     &     SARAH           L               967.98    9.74   981.16    185.11  2,143.99
+045-036-005  BIALCZYK,        RUBEN         ET       AL                           329.91                             329.91
+045-118-013  WILKERSON,       KELLIE              L                               296.44                             296.44
+047-007-020  HILDRETH,        TIMOTHY                                             1,231.26                           1,231.26
+048-008-030  RASMUSSEN,       TERRI                                               1,710.54  17.16  1,660.62  297.62  3,685.94
+048-011-006  DIAMOND     CREEK        DEVELOPMENT                    INC       E  242.55    2.49   57.41     10.74   313.19
+049-002-002  LEBARTS,    KENT         &     SHARON            Y                   1,511.28         30.91-    30.91   1,511.28
+049-018-067  MURPHY,     DANA      HULL                                           1,770.16  17.76  429.63    34.93   2,252.48
+049-024-009  TANAKA,     RAY    KIYOSHI                 JR                        207.05    2.13   98.02     16.32   323.52
+051-002-027  COLLINS,    BONIFACIO                   &     CHRISTINA              1,514.52                           1,514.52
+051-005-044  FITZPATRICK,          DENIS             &     A                      280.84    2.87   265.91    53.55   603.17
+052-010-015  APARICIO,        WALTER                                              1,135.14                           1,135.14
+052-010-024  HULET,      LANCE     &     LACEY                                    2,153.51  21.59  .01-      .01     2,175.10
+052-010-094  4  Z'S  ENTERPRISES                  LLC                             2,097.36  21.03  2,153.65  384.32  4,656.36
+053-005-002  WHITE-GEURTS,            ROBYN             M                         417.45                             417.45
+054-003-045  MAWSON,     DANIEL          &     MELISSA                            328.02    3.34   156.59    45.99   533.94
+054-004-040  EVANS,      JIM  WILLIAMS                                            845.77    8.51                     854.28
+054-009-001  CHRISTENSEN,          RODNEY               C                         801.17    8.07   600.21    138.55  1,548.00
+054-011-006  DALTON,     DEVIN                                                    1,332.84                           1,332.84
+054-011-012  DESCUTNER,       TODD                                                440.24    4.46   438.66    84.46   967.82
+058-005-005  DUNCAN,     CHARLIE            P     &     CHERI        A            1,741.92                           1,741.92
+061-001-014  BERNHARDT,       WILLIAM                ROBERT                       474.07    4.80   465.10    88.41   1,032.38
+061-002-016  WEEKEND     WARRIOR            RENTALS               LLC             418.74                             418.74
+062-029-001  HUGHES,     CHARLES            &     BONNIE                          44.22     1.77   9.46      2.32    57.77
+062-030-010  CHAN    FAMILY     TRUST             THE         ET     AL           18.89     .76    18.03     4.41    42.09
+062-035-014  REYNOLDS,        SALLY                                               18.89     .76    18.03     4.41    42.09
+062-035-015  PIERCE,     JAMES        B                                           18.89     .76    18.03     4.41    42.09
+062-035-016  PIERCE,     JAMES        B                                           12.89     .52    12.10     2.97    28.48
+062-038-002  PARKER,     WENDELL            &     CHRISTABETH                     21.74     .87    20.85     12.09   55.55
+062-038-003  PARKER,     WENDELL            &     CHRISTABETH                     55.92     2.24   54.83     21.03   134.02
+063-013-007  PERROTT,    WILLIAM               J     &     DELORIS          L     19.50     .78    19.28     4.72    44.28
+063-017-012  ANDURAY,    LYDIA                                                    19.50     .78    19.28     4.72    44.28
+063-017-013  ANDURAY,    LYDIA                                                    19.50     .78    19.28     4.72    44.28
+063-017-014  ANDURAY,    LYDIA                                                    19.50     .78    19.28     4.72    44.28
+063-017-015  SHORT,      CHRISTIANE               E     TR                        19.50     .78    19.28     4.72    44.28
+063-017-016  SHORT,      CHRISTIANE               E     TR                        19.50     .78    19.28     4.72    44.28
+063-018-004  JKST    II  LLC                                                      19.50     .78    19.28     4.72    44.28
+063-022-009  ACREOLOGY        LLC                                                 19.50     .78    19.28     4.72    44.28
+063-023-013  COLEMAN,    JUSTIN                                                   19.50     .78    19.28     4.72    44.28
+063-024-009  MALETTA,    JACK         &     BARBARA                               19.50     .78    19.28     4.72    44.28
+063-025-011  MIGAUD,     MARY     ANN                                         19.50   .78   19.28   4.72   44.28
+063-025-013  MONJARAS,      JULIO                                             19.50   .78   19.28   4.72   44.28
+063-029-003  REEDY,   R  W  &     CAROL             W                         19.50   .78   19.28   4.72   44.28
+063-029-011  ESCAJEDA,      PATRICIA                RAE                       19.50   .78   19.28   4.72   44.28
+064-005-004  BAUTISTA,      HERBERTO                &   BELEN                 157.02  1.57  148.13  32.91  339.63
+064-006-001  MILLARD,    PETER          J                                     17.73   .71   16.22   3.99   38.65
+064-006-002  MILLARD,    PETER          J                                     17.73   .71   16.22   3.99   38.65
+064-011-010  HULSEY,     DOROTHY           J                                  17.73   .71                  18.44
+064-011-011  HULSEY,     DOROTHY           J                                  17.73   .71                  18.44
+064-013-006  ANCAR,   MARIA       TRINIDAD                 ET     AL          17.73   .71   16.22   3.99   38.65
+065-001-016  SMEDLEY,    JOHN        JR       ET       AL                     11.95   .48   11.17   2.73   26.33
+065-004-014  COPELAND,      WALTER            &     COLLEEN                   11.95   .48   11.17   2.73   26.33
+065-008-015  WARD,   RONALD       GENE                                        11.95   .48   11.17   2.73   26.33
+065-009-014  BENNETT,    MAX      &     LAURA                                 186.40  1.86  180.36  38.56  407.18
+065-009-015  BENNETT,    MAX      &     LAURA                                 11.95   .48   11.17   2.73   26.33
+065-009-016  BENNETT,    MAX      &     LAURA                                 11.95   .48   11.17   2.73   26.33
+065-012-003  BENNETT,    MAX      &     LAURA                                 46.49   1.86  43.46   17.64  109.45
+065-012-004  BENNETT,    MAX      &     LAURA                                 71.42   2.86  70.44   24.27  168.99
+065-012-007  CHRISTOPHERSON,               KARL         &     HEATHER         11.95   .48   11.17   2.73   26.33
+065-013-012  NGUYEN,     HUNG     T     &     MAI       T                     11.95   .48   11.17   2.73   26.33
+065-013-013  DOLAN,   FRANCIS           D                                     11.95   .48   11.17   2.73   26.33
+065-013-014  DOLAN,   FRANCIS           D                                     11.95   .48   11.17   2.73   26.33
+065-014-010  HURLEY,     JAMES                                                11.95   .48   11.17   2.73   26.33
+065-014-014  COFFEY,     WILLIAM           F     &     EARIE         M        11.95   .48   11.17   2.73   26.33
+065-015-011  WEBB,   HOYT   &     CERRIE                                      11.95   .48   11.17   2.73   26.33
+066-001-019  ROBISON,    ROBERT            DONALD             ET     AL       11.95   .48   11.17   2.73   26.33
+066-005-021  DOLAN,   FRANCIS           D                                     11.95   .48   11.17   2.73   26.33
+066-007-001  SANCHEZ-SANDOVAL,                   JERONIMO               DANI  11.95   .48   11.17   2.73   26.33
+066-008-012  MUDDIMAN,      CLYDE          F     &     MARY       A           11.95   .48   11.17   2.73   26.33
+066-009-001  SMITH,   CHARLES           L     &     JULIE         A           9.47    .38   8.71    2.13   20.69
+066-009-018  BROWN,   DONALD         M     &     MELINDA             G        11.95   .48   11.17   2.73   26.33
+066-009-021  GIMENEZ,    MOISES            JR                                 11.95   .48   11.17   2.73   26.33
+066-009-022  GIMENEZ,    MOISES            JR                                 9.47    .38   8.71    2.13   20.69
+066-012-003  WANS,   ROBERT       J     &     ELLAA                           11.95   .48   11.17   2.73   26.33
+066-012-004  WANS,   ROBERT       J     &     ELLA         A                  11.95   .48   11.17   2.73   26.33
+066-013-003  PREIKSCHAS,       J     &     B     G                            11.95   .48   11.17   2.73   26.33
+066-014-002  MUNOZ,   DAVID                                                   11.95   .48   11.17   2.73   26.33
+066-014-006  LO,   MICHAEL     &     BELINDA                                  11.95   .48   11.17   2.73   26.33
+066-015-004  WICKHAM,    KATHRYN              ET       AL                     11.95   .48   11.17   2.73   26.33
+066-015-010  SEIZED   PROPERTY                                                11.95   .48   11.17   2.73   26.33
+066-020-002  COFFEY,     WILLIAM           F     &     EARIE         M        11.95   .48   11.17   2.73   26.33
+066-023-005  FLORIDA,    RILEY                                                11.95   .48   11.17   2.73   26.33
+066-029-017  SMITH,   CHARLES           L     &     JULIA         A           7.07    .28   6.34    1.54   15.23
+066-030-003  LAND   QUEST                                                     11.95   .48   11.17   2.73   26.33
+067-001-011  MARCOUX,    JOHN        &     MEGAN                              14.55   .58   13.74   3.35   32.22
+067-002-009  MURPHY,     SHERRIE           ET       AL                        14.55   .58   13.74   3.35   32.22
+067-003-012  BROWN,   JASON                                                   14.55   .58   13.74   3.35   32.22
+067-008-006  BENAVENTE,     RALPH             LUJAN                           14.55   .58   13.74   3.35   32.22
+067-009-005  BENAVIDES,     EFREN             &     CARMEN                    14.55   .58   2.74    1.71   19.58
+067-009-011  TERRY,   WILLIAM           E     SR       ET     AL              14.55   .58   13.74   3.35   32.22
+067-009-012  TERRY,   WILLIAM           E     SR       ET     AL              14.55   .58   13.74   3.35   32.22
+067-010-005  LEE,   CHRISTOPHER               L                               14.55   .58   13.74   3.35   32.22
+067-010-006  SIGUEUZA,    VINCENT              C     &   CHRISTINE    14.55           .58                         13.74           3.35            32.22
+067-015-015  KINSEY,   DONTE                                          14.55           .58                         13.74           3.35            32.22
+067-016-002  SCHULTZ,     MARGARET             J                      14.55           .58                         13.74           3.35            32.22
+067-021-014  FAUSONE,     DAVID         &VINCENT             JR       14.55           .58                         13.74           3.35            32.22
+067-022-004  CARTEL,   SAMETRA                                        14.55           .58                         13.74           3.35            32.22
+067-022-013  NEXGEN   PROPERTY          SOLUTIONS                LLC  14.55           .58                         13.74           3.35            32.22
+067-022-014  NEXGEN   PROPERTY          SOLUTIONS                LLC  14.55           .58                         13.74           3.35            32.22
+067-023-006  SHRODE,   LAWRENCE             R     ET     AL           14.55           .58                         13.74           3.35            32.22
+067-025-011  SIETSEMA,    ROSALIE              L                      14.55           .58                         13.74           3.35            32.22
+067-032-003  HENDRICKSON,         RONALD             R                14.55           .58                         13.74           3.35            32.22
+067-032-007  OESTERREICH,         ALEC                                14.55           .58                         13.74           3.35            32.22
+072-002-023  BARBER,   TRENT         &  AIMEE                         251.00          2.51                        237.68          48.60           539.79
+072-003-005  MITCHELL,    CHRIS         JOHN            ET   AL       47.69           1.91                        45.17           18.08           112.85
+072-003-006  MITCHELL,    CHRIS         JOHN            ET   AL       725.18          7.25                        548.99          90.28           1,371.70
+073-004-003  RAVEN,   WILLIAM                                         64.76           2.59                        64.02           22.67           154.04
+074-005-008  EISENBARTH,       PAUL         J     III       ET   AL   2,426.69        24.27                       686.27          95.48           3,232.71
+075-000-054  WALKER,   LEE     ANNE         ET       AL               234.26          2.34                        111.69          17.52           365.81
+075-000-082  SABEY,   KRISTIN                                         73.82           2.95                        58.14           21.24           156.15
+075-001-072  WRIGHT,   WILLIAM          &      PAMELA                 73.82           2.95                        58.14           21.24           156.15
+075-002-044  COBERLY,     DAN     ET    AL                            73.82           2.95                        58.14           21.24           156.15
+075-004-047  NASSOUR,     IBRAHIM           KHALIL                    103.23          1.48                                                        104.71
+075-005-032  SEATON,   PHILLIP                                        73.82           2.95                        58.14           21.24           156.15
+075-006-079  LIU,   HONG                                              73.82           2.95                        58.14           21.24           156.15
+075-012-059  KATSUYAMA,     MITSUYE               TR                  103.23          1.48                        87.21           28.37           220.29
+075-012-089  NAVARRO,     ESTEBAN                                     372.58                                                                      372.58
+077-003-019  O'REILLY,    WALTER            S     &     HELEN    L    409.38                                                                      409.38
+077-007-012  BURKE,   GARY     L     &  MARIECHERRIER                 618.35          6.24                        300.50          37.58           962.67
+085-004-004  DANIELSON,     LUIS        R      &     CARMEN      M    29.82           1.19                        29.48           14.23           74.72
+086-002-005  RUSSELL,     JEFF       E  &      KATRINKA          S    359.23          3.65                        .78             .10             363.76
+090-000-081  GRATZ,   JAMES       E                                   20.88           .84                         20.64           12.05           54.41
+090-001-003  LAMAR,   CYNTHIA           ET     AL                     20.88           .84                         20.64           12.05           54.41
+090-001-060  MODERN   LAND     &     DEVELOPMENT                 LLC  20.88           .84                         20.64           12.05           54.41
+091-300-059  RUIZ,   PEDRO     C     &  EVANGELINA               J    1,370.39        13.70                       648.56          64.60           2,097.25
+                                                                      --------------  --------------  ----------  --------------  --------------  --------------
+Totals:      912      Parcels                                         341,424.20      2,997.98        .00         95,123.78       19,646.07       459,192.03
+TC3100       Current   Tax   Year:                   2021-22                                Elko  County                                            09/08/21    Page        1
+             Oldest   Delinquency:                   2020-21                        Second-year   Delinquencies    List
+                                                                         ------     Current  Year   Delinquencies  ------          Prior  Years  Delinquencies  Total
+Parcel  #    Current   Assessed             Owner                                   Tax             Penalty        Pub   Costs     Tax    Pen    &  Interest    Delinquent  Amt
+-----------  -------------------------------                        --------------  --------------  ----------     --------------         --------------        --------------
+001-01A-002  MCH   PROPERTIES         LLC                                           967.47                                                                      967.47
+001-231-013  TREE   STREET   INVESTMENST                     GROUP    G  2,732.98                   27.33                          3,289.12         626.91      6,676.34
+001-349-002  BRADY,   KRISTIE         L     TR                                      384.52                3.85                     739.60           184.27      1,312.24
+001-349-003  BRADY,   KRISTIE         L     TR                           1,065.70                   10.66                          2,011.37         473.75      3,561.48
+001-423-005  AVILA,   ANTONIO                                                       658.76                6.59                                                  665.35
+001-453-011  FLORES,   MOISES         ET       AL                        1,095.85                   10.96                          522.85           53.40       1,683.06
+001-560-089  CHARM   HOSPITALITY               LLC                       44,309.70                  443.10                      75,226.72           15,246.25   135,225.77
+001-630-055  MODERN   LAND   &     DEVELOPMENT                   LLC     3,071.33                   30.71                          5,055.16         1,035.07    9,192.27
+001-720-004  CISZEWSKI,     ERIC         S                                          316.12                3.16                     46.85            10.04       376.17
+001-720-032  VILLEGAS,   MARCI           ANN         ET   AL                        333.72                                                                      333.72
+001-782-002  ESPITIA,   MIGUEL           A     &     MARLA                          378.32                3.78                     564.48           154.73      1,101.31
+001-792-001  OLIVER,   RALPH       W                                                529.82                5.30                                                  535.12
+001-862-059  BURT,   SANDRA     L                                        2,453.43                   24.54                          4,257.36         975.07      7,710.40
+002-043-003  WHITE,   ZACHARY         R                                  1,081.33                   10.81                          1,542.09         297.96      2,932.19
+002-072-012  LAMBERT,   STEPHEN             K     &   RUNELDA                       212.92                2.13                     395.42           104.12      714.59
+002-090-006  ATKINS,   SONNY       &     TERI         L                  2,786.99                   27.87                          2,905.21         650.63      6,370.70
+002-166-006  GORDON,   ELWIN       RAY         ET     AL                            241.74                2.42                     498.29           129.29      871.74
+002-166-007  GORDON,   ELWIN       RAY         ET     AL                            242.98                2.43                     485.02           125.83      856.26
+002-166-009  BEESON,   STACEY         L                                             258.63                2.59                     529.55           136.07      926.84
+002-183-003  ATKINS,   SONNY       B     &     TERI       L              2,832.92                   28.33                          3,849.36         741.90      7,452.51
+002-185-009  DOXEY,   ELIZABETH             C     TR                                435.54                4.36                                                  439.90
+002-511-006  JACOBSON,   EDWIN           H     &     JOYCE       I                  5.12                  .20                           9.72        2.88        17.92
+002-514-010  YEAGER,   SABRINA                                                      247.82                2.48                     461.21           119.31      830.82
+002-690-042  MITCHELL,   JAMES           FRANCIS                                    147.97                1.48                     280.52           78.31       508.28
+002-690-044  MITCHELL,   JAMES           FRANCIS                                    147.97                1.48                     280.52           78.31       508.28
+002-700-003  STANTON,   JAMES         R                                             721.67                7.22                     360.06           70.71       1,159.66
+003-301-005  FROUNFELKER,       LYNDA                                               7.98                  .32                      14.88            4.41        27.59
+003-812-008  STECK,   ALBERT       F,       JR       &PATRICIA                      7.06                  .28                      13.96            4.22        25.52
+003-910-003  KEMPTON,   JERRY         ALLEN           ET     AL                     93.11                 3.72                     145.37           57.29       299.49
+003-910-004  KEMPTON,   JERRY         ALLEN           ET     AL                     65.42                 2.62                     96.46            42.87       207.37
+003-914-001  KEMPTON,   JERRY         ALLEN                                         22.08                 .88                      13.19            3.88        40.03
+004-06A-005  PAYNE,   ESTALENE                                                      19.88                 .80                      39.30            18.70       78.68
+004-26B-003  ROSEMAN,   ELLEN         &     BARRY                                   30.96                 1.24                     61.22            32.40       125.82
+006-07C-005  LEAVITT,   JAMES         D     &     JESSIE         L                  209.03                2.15                     412.38           108.62      732.18
+006-09F-019  JORDANELLE     THIRD           MORTGAGE             LLC                775.72                7.76                     1,532.21         365.09      2,680.78
+006-09F-020  JORDANELLE     THIRD           MORTGAGE             LLC     1,065.09                   10.65                          2,104.33         496.27      3,676.34
+006-09F-093  JORDANELLE     THIRD           MORTGAGE             LLC     3,844.41                   38.44                          7,599.69         1,755.53    13,238.07
+006-09I-004  JORDANELLE     THIRD           MORTGAGE             LLC                261.75                2.62                     515.95           132.25      912.57
+006-09K-024  FOSS,   JOHNATHAN           R     &     WENDY       J                  713.76                7.14                     172.73           15.37       909.00
+006-09K-066  MAUMCHUK,   ALEKSANDER                   &   NATASHA                   835.66                8.36                     1,346.28         359.72      2,550.02
+006-09P-006  SANDERS,   NATHANIAL                 ET     AL                         301.20                                                                      301.20
+006-09P-010  JORDANELLE     THIRD           MORTGAGE             LLC                401.63                4.02                     792.53           195.58      1,393.76
+006-09P-011  JORDANELLE     THIRD           MORTGAGE             LLC                711.15                7.11                     1,398.40         333.86      2,450.52
+006-09P-178  THE   AMERICAN     FOUNDATOIN                   FOR                    482.84                4.83                     897.25           218.75      1,603.67
+006-09P-179  JORDANELLE     THIRD           MORTGAGE             LLC                482.84                4.83                     897.25           218.75      1,603.67
+006-09P-180  JORDANELLE     THIRD           MORTGAGE             LLC                434.23                4.34                     806.75           198.08      1,443.40
+006-09P-181  JORDANELLE     THIRD           MORTGAGE             LLC                434.23                4.34                     806.75           198.08      1,443.40
+006-09P-183  JORDANELLE     THIRD           MORTGAGE             LLC                434.23                4.34                     806.75           198.08      1,443.40
+006-09P-184  JORDANELLE      THIRD          MORTGAGE               LLC    434.23    4.34   806.75    198.08  1,443.40
+006-09P-186  JORDANELLE      THIRD          MORTGAGE               LLC    434.23    4.34   806.75    198.08  1,443.40
+006-09P-187  JORDANELLE      THIRD          MORTGAGE               LLC    434.23    4.34   806.75    198.08  1,443.40
+006-09Q-034  JORDANELLE      THIRD          MORTGAGE               LLC    482.84    4.83   897.25    218.75  1,603.67
+006-09Q-035  JORDANELLE      THIRD          MORTGAGE               LLC    482.84    4.83   897.25    218.75  1,603.67
+006-09Q-036  JORDANELLE      THIRD          MORTGAGE               LLC    482.84    4.83   897.25    218.75  1,603.67
+006-09Q-038  JORDANELLE      THIRD          MORTGAGE               LLC    482.84    4.83   897.25    218.75  1,603.67
+006-09Q-040  JORDANELLE      THIRD          MORTGAGE               LLC    482.84    4.83   897.25    218.75  1,603.67
+006-09Q-041  JORDANELLE      THIRD          MORTGAGE               LLC    482.84    4.83   897.25    218.75  1,603.67
+006-090-024  JORDANELLE      THIRD          MORTGAGE               LLC    837.45    8.37   1,654.23  393.04  2,893.09
+006-090-066  JORDANELLE      THIRD          MORTGAGE               LLC    259.75    2.60   511.99    131.27  905.61
+006-090-067  JORDANELLE      THIRD          MORTGAGE               LLC    603.47    6.04   1,191.61  287.03  2,088.15
+006-090-068  JORDANELLE      THIRD          MORTGAGE               LLC    1,376.83  13.77  2,720.73  637.58  4,748.91
+006-090-069  JORDANELLE      THIRD          MORTGAGE               LLC    2,064.27  20.64  4,079.95  949.00  7,113.86
+006-090-070  JORDANELLE      THIRD          MORTGAGE               LLC    1,527.22  15.27  3,018.09  705.56  5,266.14
+006-30E-012  SHANKS   ENTERPRISES                 INC                     126.27                             126.27
+006-33B-015  BRADY,   WILLIAM         M     &     DELORES                 37.48     1.50   74.12     36.17   149.27
+006-34C-021  BURNS,   ELEANOR         L     TR       ET    AL             24.98     1.00   49.40     21.87   97.25
+006-420-005  O'DELL,   RAY   &     TEX         S     TR                   124.26    1.24   92.13     19.14   236.77
+006-45A-056  GASH,   SABRA   LYNN                                         204.96    2.05   402.00    106.05  715.06
+006-55H-026  KOVESDI,     JANOS                                           44.96     1.80   88.90     40.59   176.25
+006-56B-015  LESNICK   TRUST                                              59.95     2.40   118.54    49.39   230.28
+006-56I-016  ROBERSON,    JEREMIAH                J                       59.95     2.40   118.54    49.39   230.28
+006-56P-007  WONG,   CHARLES       D                                      59.95     2.40   118.54    49.39   230.28
+006-57C-002  SPANNER,     GARRY       J                                   59.95     2.40   118.54    49.39   230.28
+006-57C-003  SPANNER,     GARRY       J                                   59.95     2.40   118.54    49.39   230.28
+007-03A-010  HARMON,   WILLIAM           E     &     TERI       M         1,583.27                           1,583.27
+007-12B-008  SHERMAN,     DONNA       &     MAREK,           WILLIAM      24.98     1.00   49.40     21.87   97.25
+007-12G-004  LEBLANC,     EDMUND         L                                12.50     .50    24.72     14.34   52.06
+007-12G-006  LEBLANC,     EDMUND         L                                24.98     1.00   49.40     21.87   97.25
+007-12G-007  LEBLANC,     EDMUND         L                                12.50     .50    24.72     14.34   52.06
+007-12G-008  LEBLANC,     EDMUND         L                                12.50     .50    24.72     14.34   52.06
+007-12O-002  SOTTOSANTI,     LAWRENCE                   A  JR             159.87    1.60   316.10    86.48   564.05
+007-13D-010  PHALAVISAY,     DARA           &     THONGPANH               12.44     .50              7.30    20.24
+007-13G-016  ABDALLAH,    FAWZIA            TR       ET    AL             49.96     2.00   98.78     43.53   194.27
+007-34A-004  PRYOR,   CLAUDE       E     &     JOSEPHINE               J  24.98     1.00   49.40     21.87   97.25
+007-34H-003  MILES,   JERRY     A     &     ELAINE           F     TR     18.38     .74    36.36     17.85   73.33
+007-35A-001  LESNICK   TRUST                                              12.50     .50    24.72     14.34   52.06
+007-35A-004  LESNICK   TRUST                                              12.50     .50    24.72     14.34   52.06
+007-35A-011  LESNICK   TRUST                                              12.50     .50    24.72     14.34   52.06
+007-35B-018  KENNEY,   KURTISS           P     TR                         52.27     2.09   103.36    44.91   202.63
+008-31D-009  CLARKVIEW    PROPERTIES                    LLC               50.25     2.01   99.34     43.65   195.25
+008-360-022  MCALLISTER,     MARK                                         371.69    3.72   536.05    112.78  1,024.24
+009-33E-012  BUCKLER,     JAMES       G     &     EMMA       L            39.22     1.57   77.52     37.14   155.45
+009-59A-009  AUDISS,   W  A                                               14.85     .59    29.34     15.74   60.52
+010-13E-027  KOKER,   THOMAS       B     &     DONNA                      73.82     2.95   101.73    43.59   222.09
+010-13E-042  TOLBERT,     RICHARD           EARL                          73.82     2.95   116.28    48.72   241.77
+010-13H-010  SELEH,   RYAN   &     PEGAH             P                    73.82     2.95   116.28    48.72   241.77
+010-13H-026  MILLER,   CHARLES           R                                132.65    1.78   232.56    67.31   434.30
+010-15D-020  100%   LOCATION       LLC                                    29.85     1.19   29.34     15.74   76.12
+010-15D-021  SZTAPKA,     ROSANNE           C                             29.85     1.19   29.34     15.74   76.12
+010-15H-034  MILIAN,   RAJ                                                73.82     2.95   116.28    48.72   241.77
+010-16C-059  STIRM,   NICHOLAS           D     &     CODY       H         29.71     1.19   29.08     15.68   75.66
+010-16E-046  KIFLIT,   MIKE    G     ET       AL                             29.71   1.19  29.08   15.68  75.66
+010-16F-003  MOGHADDAM,     ALIREZA                                          .96     .04                  1.00
+010-16J-033  WILLIS,   HOWARD        M     &     DORIS         J   TR        73.82   2.95  116.28  48.72  241.77
+010-35A-023  CULLEN,   SHIRLEY          M     ET       AL                    29.85   1.19  29.34   15.74  76.12
+010-35C-028  SULLIVAN,     JAMES        P     ET       A;                    29.85   1.19  29.34   15.74  76.12
+010-35H-036  FERNANDEZ,     JOHN        A                                    29.85   1.19  29.34   15.74  76.12
+010-35H-046  KOVESDI,     JANOS                                              44.41   1.78  58.14   31.32  135.65
+010-35I-053  ROBERTS,     CHRISTOPHER                  M   &   MARY       E  23.68   .95   17.16   5.09   46.88
+010-35K-007  BEGLINGER,     DONALD            R     ET     AL                73.82   2.95  116.28  48.72  241.77
+010-35K-016  COWIN,   MAURICE        IRWIN                                   46.65   1.87  62.58   32.70  143.80
+010-35M-014  COUNCILMAN,       KATHRYN              L                        29.85   1.19  29.34   15.74  76.12
+010-35O-018  WRIGHT,   NORMAN        G     ET       AL                       29.85   1.19  29.34   15.74  76.12
+010-35O-041  SMITH,   ARTHUR      M     &     MARY         M   ETAL          44.41   1.78  58.14   31.32  135.65
+010-35O-045  SMITH,   ARTHUR      M     &     MARY         M   ETAL          29.85   1.19  29.34   15.74  76.12
+010-35O-062  TRAVIS,   SHANE      D     &     VERONIKA                       29.85   1.19  29.34   15.74  76.12
+010-36A-011  TANNER,   WILLIAM          D                                    29.57   1.18  28.80   15.62  75.17
+010-36B-049  OLSON,   JEFFREY                                                29.57   1.18  28.80   15.62  75.17
+010-36G-041  MILLER,   PHILIP        S                                       29.57   1.18  28.80   15.62  75.17
+010-36H-016  JACKSON,     CHARLIE                                            29.57   1.18  28.80   15.62  75.17
+010-36H-056  RICHARDSON,       STEVE          A                              29.57   1.18  28.80   15.62  75.17
+010-36I-019  KELLY,   KYLE     MATTHEW                                       29.57   1.18  28.80   15.62  75.17
+010-36I-049  PADILLA,     EDWARD        T     &     ENEIDA         M         29.57   1.18  28.80   15.62  75.17
+010-36K-033  ORAVETZ,     LEIGH      STEPHANIE                               29.57   1.18  19.43   5.27   55.45
+010-36L-003  LAWSON,   WENDELL          L     &     BEVERLY           J      29.57   1.18  28.80   15.62  75.17
+010-36L-015  KELLY,   KYLE     MATTHEW                                       29.57   1.18  28.80   15.62  75.17
+010-36L-037  MCCUNE,   MICHAEL          H     ET       AL                    29.57   1.18  28.80   15.62  75.17
+010-36L-049  PREHODA,     RICHARD          F                                 29.57   1.18  28.80   15.62  75.17
+010-37C-043  CASTILLO,     ROGER        J     ET       AL                    29.57   1.18  28.80   15.62  75.17
+010-37F-019  KOVESDI,     JANOS                                              29.57   1.18  28.80   15.62  75.17
+010-37F-029  MILLER,   CHARLES          R                                    73.82   2.95  116.28  48.72  241.77
+010-56A-003  POOR,   JOHN   I                                                133.49  1.79  234.22  67.76  437.26
+010-56B-001  POOR,   JOHN   I                                                74.80   2.99  118.22  49.33  245.34
+010-56B-015  GALMON,   CHRISTOPHER                                           38.53   1.54  23.26   12.88  76.21
+010-56D-023  KIRK,   WILLIAM      C                                          38.53   1.54  46.52   20.85  107.44
+010-57A-028  DALEY,   VINCENT        ETAL                                    54.22   2.17  77.52   37.14  171.05
+010-57B-004  BUNDY,   MELVIN      R     SSGT                                 37.97   1.52  45.40   20.61  105.50
+010-57C-023  FLAGSTONE     CANYON          INC                               38.53   1.54          2.56   42.63
+010-57D-015  SCHWEPPE,     JAMES                                             73.82   2.95  17.04   24.06  117.87
+010-57E-007  MONCRIEF,     CURTIS          H     &     CORETA         TR     38.53   1.54  46.52   20.85  107.44
+010-57K-030  HATTON,   CHRISTOPHER                                           38.53   1.54  46.52   20.85  107.44
+010-57K-037  DENNEY,   BETTY      M                                          38.53   1.54  46.52   20.85  107.44
+010-57L-006  JONES,   ELSA                                                   38.53   1.54  46.52   20.85  107.44
+010-57L-039  KES,   SAUL   PAUL      ET       AL                             38.53   1.54  46.52   20.85  107.44
+010-57L-043  JONES,   ELSA                                                   38.53   1.54  46.52   20.85  107.44
+010-57M-036  GARRISON,     DAVID        F     &     WAYNE                    44.41   1.78  58.14   31.32  135.65
+010-57P-022  GARDNER,     AUDREY        A     &     PAUL       W             38.53   1.54  46.52   20.85  107.44
+010-57R-042  ACUMEN   INVESTMENT              GROUP           LLC            38.53   1.54  46.52   20.85  107.44
+010-58A-005  JACKSON,     BURTIS        R                                    29.57   1.18  28.80   15.62  75.17
+010-58C-047  KES,   SAUL   PAUL      ET       AL                             67.38   2.70  103.54  44.95  218.57
+010-58C-052  SPARKS,   THOMAS        G                                       40.21   1.61  49.84   21.97  113.63
+010-58D-024  MCGEE,   VERNELL                                                35.45   1.42  40.42   19.11  96.40
+010-58F-035  CERVANTES,     AARON          T     ET       AL                 56.99   2.28  40.70   16.98  116.95
+010-58G-007  FADELLI,     FRANK      O     TR       ET     AL                44.41   1.78  58.14   31.32  135.65
+010-58I-037  THOMAS,   CURTIS                                       29.57      1.18    28.80      15.62     75.17
+010-58J-006  WOLTERS,     CHARLES          F     &  CAROL     R     29.57      1.18    28.80      15.62     75.17
+010-58M-001  NADALE,   RICHARD          J                           29.57      1.18    28.80      15.62     75.17
+010-58P-025  FLAGSTONE    CANYON           INC                      29.57      1.18    .93        2.29      33.97
+010-58Q-033  VASQUEZ,     GUILLERMO              &  ELAINE       M  29.57      1.18    28.80      15.62     75.17
+010-58S-033  WEDVICK   HENRY      M     TRWEDVICK             FAMI  29.57      1.18    28.80      15.62     75.17
+010-580-006  CULVER,   PATRICK          D                           20.60      .82     11.08      3.39      35.89
+010-59A-021  HAMM,   RONALD                                         29.85      1.19    29.34      15.74     76.12
+010-59C-005  MORGAN,   RONI                                         29.85      1.19    29.34      15.74     76.12
+010-59D-053  DOWNEY,   MELVIN        W     &     C                  29.85      1.19    29.34      15.74     76.12
+010-59F-032  ONLY   LAND  LLC                                       44.41      1.78    58.14      31.32     135.65
+010-59F-036  CHAN,   CYNTHIA      D                                 44.41      1.78    58.14      31.32     135.65
+010-59G-008  KUCHINSKI,   JOSEPH              J     &WANDA    L     25.64      1.03    21.04      13.35     61.06
+010-701-067  LAWRENCE,    RANDON           &     JULENE             28,869.13  288.69  43,789.00  8,461.34  81,408.16
+010-749-005  CARDINAL     CONSTRUCTION                  CORP        53.15      2.13    147.29     60.22     262.79
+010-749-006  CARDINAL     CONSTRUCTION                  CORP        52.39      2.10    145.77     59.88     260.14
+010-749-007  CARDINAL     CONSTRUCTION                  CORP        52.39      2.10    145.77     59.88     260.14
+010-749-008  CARDINAL     CONSTRUCTION                  CORP        51.60      2.06    144.19     59.33     257.18
+010-749-009  CARDINAL     CONSTRUCTION                  CORP        51.60      2.06    144.19     59.33     257.18
+010-749-010  CARDINAL     CONSTRUCTION                  CORP        51.61      2.06    144.21     59.33     257.21
+010-749-011  CARDINAL     CONSTRUCTION                  CORP        51.28      2.05    143.55     59.19     256.07
+010-749-012  CARDINAL     CONSTRUCTION                  CORP        51.28      2.05    143.55     59.19     256.07
+010-749-013  CARDINAL     CONSTRUCTION                  CORP        52.04      2.08    145.07     59.67     258.86
+010-749-014  CARDINAL     CONSTRUCTION                  CORP        52.31      2.09    145.61     59.84     259.85
+010-749-015  CARDINAL     CONSTRUCTION                  CORP        51.84      2.07    144.67     59.43     258.01
+010-749-021  CARDINAL     CONSTRUCTION                  CORP        52.66      2.11    143.75     59.11     257.63
+010-749-023  CARDINAL     CONSTRUCTION                  CORP        52.53      2.10    143.49     59.06     257.18
+010-749-024  CARDINAL     CONSTRUCTION                  CORP        51.18      2.05    140.79     58.26     252.28
+010-749-029  CARDINAL     CONSTRUCTION                  CORP        50.72      2.03    139.87     57.88     250.50
+010-749-030  CARDINAL     CONSTRUCTION                  CORP        51.89      2.08                         53.97
+010-749-031  CARDINAL     CONSTRUCTION                  CORP        51.79      2.07                         53.86
+010-749-032  CARDINAL     CONSTRUCTION                  CORP        54.77      2.19                         56.96
+010-749-033  CARDINAL     CONSTRUCTION                  CORP        54.84      2.19                         57.03
+010-749-034  CARDINAL     CONSTRUCTION                  CORP        50.59      2.02                         52.61
+010-749-035  CARDINAL     CONSTRUCTION                  CORP        50.59      2.02                         52.61
+010-749-036  CARDINAL     CONSTRUCTION                  CORP        52.92      2.12    144.27     59.22     258.53
+010-749-037  CARDINAL     CONSTRUCTION                  CORP        52.99      2.12    144.41     59.26     258.78
+010-749-038  CARDINAL     CONSTRUCTION                  CORP        54.95      2.20    148.33     60.51     265.99
+010-749-039  CARDINAL     CONSTRUCTION                  CORP        54.72      2.19    147.87     60.40     265.18
+010-749-040  CARDINAL     CONSTRUCTION                  CORP        53.31      2.13    145.05     59.39     259.88
+010-749-041  CARDINAL     CONSTRUCTION                  CORP        54.62      2.18    147.67     60.33     264.80
+010-749-042  CARDINAL     CONSTRUCTION                  CORP        52.02      2.08    142.47     58.63     255.20
+010-749-043  CARDINAL     CONSTRUCTION                  CORP        52.00      2.08    142.43     58.63     255.14
+010-749-044  CARDINAL     CONSTRUCTION                  CORP        56.41      2.26    151.25     61.32     271.24
+010-749-045  CARDINAL     CONSTRUCTION                  CORP        56.43      2.26    151.29     61.33     271.31
+010-749-046  CARDINAL     CONSTRUCTION                  CORP        53.97      2.16    146.37     59.88     262.38
+010-749-047  CARDINAL     CONSTRUCTION                  CORP        53.95      2.16    146.33     59.88     262.32
+010-78D-039  STEMPIEN,    PAUL       R     ET       AL              44.41      1.78    58.14      31.32     135.65
+010-79A-017  TETREAULT,   MICHAEL                A  &   DEBRHA      29.85      1.19    29.34      15.74     76.12
+010-79C-010  MILLER,   CHARLES          R                           73.82      2.95    116.28     48.72     241.77
+010-79F-004  VIGIL,   RALPH    A                                    44.13      1.77    57.58      31.24     134.72
+010-79F-041  SMITH,   RICHARD        R     &     SHIRLEY      A     29.85      1.19    29.34      15.74     76.12
+010-79F-046  FISHER,   EUGENE        L     &     NORMA   C          29.85      1.19    29.34      15.74     76.12
+010-80B-049  BEGLINGER,       DONALD             R     ET   AL            29.57   1.18  28.80   15.62   75.17
+010-80D-025  CTGC   TR                                                    29.57   1.18  28.80   15.62   75.17
+010-80E-042  NIZAR,     MAHBOOB         H                                 29.57   1.18  28.80   15.62   75.17
+010-80H-010  BARKACS,     PEARL         T                                 29.85   1.19  29.34   15.74   76.12
+010-81B-016  SHUFFLER,    KARL          J     ET       AL                 44.41   1.78  30.19   15.90   92.28
+010-81D-009  WLASCHIN,    ROBERT                                          45.08   1.80  59.46   31.83   138.17
+010-81E-052  DENSON,    FLOYD        R     &     CLAIRE         M         29.57   1.18  28.80   15.62   75.17
+010-81F-032  POLANCHEK,       WALTER             W                        34.16   1.37  37.88   18.40   91.81
+010-81F-041  HAUG,   NELSON       E     SR       &     GRACE              29.57   1.18  14.29   3.64    48.68
+010-81H-032  MCQUARRIE,       CHARLES               T                     29.57   1.18  28.80   15.62   75.17
+010-81H-052  SHUFFLER,    KARL          J     ET       AL                 72.51   2.90  59.03   24.43   158.87
+011-001-070  BOWMAN,    BRADLEY            &     LAURIE         A         34.05   1.36  37.66   18.32   91.39
+011-001-090  BOWMAN,    BRADLEY            &     LAURIE         A         34.05   1.36  37.66   18.32   91.39
+011-003-027  STRENG,    BLAKE        EDWARD             ET  AL            30.41   1.22  30.46   16.17   78.26
+011-004-003  HERNANDEZ,       GABINO             &     NORMA       JEAN   24.52   .98   18.82   5.66    49.98
+011-006-027  MORRISON,    JEREMY              M                           32.65   1.31  17.44   7.43    58.83
+011-006-040  PICATACI,    JOSEPH              BROCK         SR            32.65   1.31  34.88   17.53   86.37
+011-006-057  PICATACI,    JOSEPH              BROCK         SR            32.65   1.31  34.88   17.53   86.37
+011-007-058  ORACION,     MARINA           C     ET     AL                32.65   1.31  34.88   17.53   86.37
+011-103-034  MUSSELMAN,       LARRY           T     &   CAROL      A      30.41   1.22  30.46   16.17   78.26
+011-103-042  HEPNER,    WILLARD            G                              30.41   1.22  30.46   16.17   78.26
+011-103-058  BELEFSKE,    CECIL            ALLENTR                        30.41   1.22  30.46   16.17   78.26
+011-104-027  PATCHETT,    TREVOR              ALLEN         ET     AL     27.89   1.12  25.48   14.69   69.18
+011-104-028  PATCHETT,    TREVOR              ALLEN         ET     AL     27.89   1.12  25.48   14.69   69.18
+011-104-057  MADEL,     MATTHEW         A                                 27.89   1.12  25.48   14.69   69.18
+011-104-088  GREENE,    MARTIN          S                                 27.89   1.12  25.48   14.69   69.18
+011-105-041  RAHN,   GUY  ERIC                                            32.65   1.31  34.88   17.53   86.37
+011-105-042  RAHN,   GUY  ERIC                                            32.65   1.31  34.88   17.53   86.37
+011-105-075  GARCIA,    MARIA        V     ET       AL                    32.65   1.31  34.88   17.53   86.37
+011-106-033  JACKSON,     TED     W     JR       ET     AL                32.65   1.31  34.88   17.53   86.37
+011-106-046  LEE,   JUDITH     E                                          32.65   1.31  34.88   17.53   86.37
+011-203-035  REID,   HELEN     L                                          30.41   1.22  30.46   16.17   78.26
+011-205-014  PANTELEO,    GARY          P                                 32.65   1.31  34.88   17.53   86.37
+011-205-022  LOVINS,    MATTHEW                                           32.65   1.31  34.88   17.53   86.37
+011-207-037  CARYSFORT    REEF          LLC                               32.65   1.31  34.88   17.53   86.37
+011-207-038  CARYSFORT    REEF          LLC                               32.65   1.31  34.88   17.53   86.37
+012-011-003  VELASQUEZ,       GEORGE             &     JENNIFER        M  152.56  1.53  283.91  78.74   516.74
+012-014-003  DVORAK,    JOHN                                              367.01  3.67  702.24  174.33  1,247.25
+012-019-007  CROW,   WILLIAM                                              51.44   2.06  95.72   42.53   191.75
+012-020-001  COHEN,     EDWARD       &     SELMA                          46.91   1.88  87.28   40.06   176.13
+012-026-006  ZEKAS,     PATRICIA           ANN                            51.44   2.06  50.52   19.67   123.69
+012-026-007  ZEKAS,     PATRICIA           ANN                            51.44   2.06  50.52   19.67   123.69
+012-037-004  WARD,   K  GROVER          &     MELISSA                     591.45  5.91  294.64  103.81  995.81
+012-051-005  PUGA,   DEBRA                                                34.72   1.39  63.25   32.90   132.26
+013-021-021  GRABARKIEWCTZ,             CHRISTOPHER                P      29.14   1.17  52.87   29.83   113.01
+013-022-002  MATTEA,    ROGER                                             13.95   .56   25.99   14.81   55.31
+013-035-006  BONHOMME,    MARY          V                                 29.14   1.17  52.87   29.83   113.01
+013-036-017  BONHOMME,    MARY          V                                 13.95   .56   25.99   14.81   55.31
+013-037-009  PINADA,    SERAPIO            S                              29.14   1.17          2.97    33.28
+013-037-010  PINADA,    SERAPIO            S                              29.14   1.17  4.60    6.20    41.11
+013-040-008  CRABTREE,    JOHN          A     TR       ET   AL            29.14   1.17  52.87   29.83   113.01
+013-045-016  SALLAS,    JOHN      D                                       28.34   1.13  27.37   20.48   77.32
+014-012-009  KRAUS,     ROLF   ET       AL                                23.91   .96   44.79   20.30   89.96
+014-012-018  NORICK,   SHIRLEY           &     MARVIN                29.14  1.17  52.87  29.83  113.01
+014-021-004  ADAMS,   SEAN   &     FAWN                              29.14  1.17  52.87  29.83  113.01
+014-021-005  ADAMS,   SEAN   &     FAWN                              29.14  1.17  52.87  29.83  113.01
+016-014-008  FLAGSTONE   CANYON             INC                      21.61  .86          2.25   24.72
+017-011-007  STRENG,   BLAKE       EDWARD             ET  AL         19.98  .80   39.52  18.74  79.04
+017-014-006  NUNN  LAND  SALES           LLC                         19.98  .80   39.52  18.74  79.04
+017-033-009  HAUGER,   SANDRA         DARLENE                        21.94  .88   41.81  19.45  84.08
+017-036-005  JULSON,   JULIE       A     ET       AL                 16.95  .68   31.93  16.50  66.06
+017-050-001  KALIOR,   CAROLE         &     ROBERT                   21.94  .88   41.81  19.45  84.08
+017-054-005  HAUGER,   SANDRA         DARLENE                        21.94  .88   41.81  19.45  84.08
+017-054-006  HAUGER,   SANDRA         DARLENE                        21.94  .88   41.81  19.45  84.08
+017-058-005  GUERTLER,   ANASTASIA                                   21.94  .88   41.81  19.45  84.08
+017-063-004  GUERTLER,   ANASTASIA                                   21.94  .88   41.81  19.45  84.08
+018-008-015  REINHARD,   DONNA                                       32.76  1.31  60.96  32.20  127.23
+018-018-005  ZIMMERMAN,     ROHN                                     43.42  1.74  41.11  21.43  107.70
+019-009-007  FOSTER,   ARLAN       LEE                               43.42  1.74  80.78  38.08  164.02
+019-013-002  CURRY,   JOHN   H     &     BETSY                       29.35  1.17  58.02  31.32  119.86
+019-013-005  CURRY,   JOHN   H     &     BETSY                       26.75  1.07  52.88  29.82  110.52
+019-013-006  CURRY,   JOHN   H     &     BETSY                       43.42  1.74  80.78  38.08  164.02
+019-013-009  CURRY,   JOHN   H                                       26.75  1.07  52.88  29.82  110.52
+020-005-004  HOLLOM,   KENNETH                                       43.42  1.74  80.78  38.08  164.02
+020-005-007  O'NEAL,   MARY     H                                    29.35  1.17  58.02  31.32  119.86
+020-006-002  MURPHY,   MELVIN         D     &     BONITA      BOOTS  43.42  1.74  80.78  38.08  164.02
+020-009-004  ASHER,   OWEN   D     ET       AL                       26.75  1.07  52.88  29.82  110.52
+020-010-002  PORTNEY,    PHIL      M     TR                          43.42  1.74  80.78  38.08  164.02
+022-011-023  MCLEMORE,   ROY       L     &     ADDIE                 2.52   .10   4.98   1.46   9.06
+022-011-024  MCLEMORE,   ROY       L     &     ADDIE                 2.52   .10   4.98   1.46   9.06
+022-011-025  MCLEMORE,   ROY       L     &     ADDIE                 2.52   .10   4.98   1.46   9.06
+022-011-026  MCLEMORE,   ROY       L     &     ADDIE                 2.52   .10   4.98   1.46   9.06
+022-011-029  FAZZINO,    VICTOR                                      2.52   .10   2.49   .64    5.75
+022-017-029  THOMPSON,   SUSAN           E     &  CHARLES     R      2.52   .10   4.98   1.46   9.06
+022-017-030  THOMPSON,   SUSAN           E     &  CHARLES     R      2.52   .10   4.98   1.46   9.06
+022-017-031  THOMPSON,   SUSAN           E     &  CHARLES     R      2.52   .10   4.98   1.46   9.06
+022-017-032  THOMPSON,   SUSAN           E     &  CHARLES     R      2.52   .10   4.98   1.46   9.06
+022-031-001  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-002  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-003  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-004  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-005  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-006  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-007  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-008  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-009  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-010  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-011  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-012  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-013  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-014  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-015  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-031-016  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-032-001  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-032-002  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-032-003  SMALL,   SAMUEL                                         5.32   .21   10.52  3.08   19.13
+022-032-004  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-005  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-006  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-007  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-008  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-009  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-010  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-011  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-012  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-013  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-014  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-015  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+022-032-016  SMALL,   SAMUEL                                         5.32      .21    10.52     3.08    19.13
+024-001-001  BITCOINTOPIA         INC                                46.35     1.85   86.24     39.68   174.12
+024-002-005  DRAKE,   LOWELL      II                                 15.50     .62    30.66     16.21   62.99
+024-003-004  DRAKE,   LOWELL      II                                 33.32     1.33   61.99     32.42   129.06
+024-032-004  BITCOINTOPIA         INC                                33.32     1.33   61.99     32.42   129.06
+024-036-008  MDG  LAND  OBSERVATION                                  16.66     .67    31.02     16.30   64.65
+024-046-002  SHEARS,    NORMA     L                                  36.45     1.46   67.85     34.28   140.04
+024-047-010  SHEARS,    NORMA     L                                  16.66     .67    31.02     16.30   64.65
+024-052-006  PEARCE,    JUSTIN       TYLER                           36.45     1.46   67.85     34.28   140.04
+024-053-002  FREGOSO-RODRIGUEZ,                ANTONIO               36.45     1.46   67.85     34.28   140.04
+024-068-009  DVORAK,    TERRY     &     CAROL                        197.12    1.97   366.85    97.72   663.66
+024-068-010  DVORAK,    TERRY     &     CAROL                        118.82    1.19   243.65    70.19   433.85
+024-071-009  LOCKARNO,     MARIA                                     16.66     .67    31.02     16.30   64.65
+025-022-006  GIBSON,    BARBARA         A     ET     AL              19.98     .80    39.52     18.74   79.04
+025-025-005  WHITE,   ALBERTINE            M                         19.98     .80    39.52     18.74   79.04
+025-036-002  CATLIN,    PETER     R                                  765.69    7.66   151.84    14.26   939.45
+026-021-005  SISSUNG,   JAMES        THOMASII                        17.39     .70    34.38     17.22   69.69
+026-021-010  GLUNZ,   TERRENCE          PATRICK           ET     AL  17.39     .70    34.38     17.22   69.69
+026-023-005  GLUNZ,   TERRANCE          PATRICK           ET     AL  17.39     .70    34.38     17.22   69.69
+026-029-008  DOUGHERTY,     DEWEY          C   JR                    10.99     .44    21.74     13.47   46.64
+026-035-005  ROSE,   RUTH   S                                        22.98     .92    45.44     20.61   89.95
+026-035-006  ROSE,   RALPH     P  ET       AL                        22.98     .92    45.44     20.61   89.95
+026-039-001  CREW,   HENRY                                           22.98     .92    45.44     20.61   89.95
+026-039-007  CREW,   HENRY                                           22.98     .92    45.44     20.61   89.95
+026-039-008  CREW,   HENRY                                           22.98     .92    45.44     20.61   89.95
+026-047-007  KNOTT,   JOHN     L                                     32.76     1.31   60.96     32.20   127.23
+026-050-002  WILLIS,    FLORENCE           H                         32.76     1.31   60.96     32.20   127.23
+026-050-008  VINSON,    COLLEEN         M                            16.06     .64    29.89     15.88   62.47
+027-010-002  SIDES,   JOSEPH      WAYNE                              1,120.68  11.27  2,115.86  523.37  3,771.18
+027-034-008  FARLEY,    NATHAN       A     &   STACY         L       67.68     2.71   127.44    52.10   249.93
+027-046-007  BUTLER,    ROBIN     A                                  74.99     3.00   141.28    56.30   275.57
+028-010-007  WILCOX,    JAMES     P     ET     AL                    71.91     2.88   141.28    56.30   272.37
+028-012-007  HARRIS,    MARTIN       &     CAROL         LYNN        71.91     2.88   141.28    56.30   272.37
+030-009-001  WHITE,   LELAND      D                                  43.47     1.74   42.33     24.36   111.90
+030-014-006  STRENG,    BLAKE     EDWARD             ET   AL         35.99     1.44   69.57     34.83   141.83
+030-019-006  ZEKAS,   PATRICIA                                       35.99     1.44   36.27     16.02   89.72
+030-030-002  BEHLING,   FRED      H     JR                           56.70     2.27   112.10    47.57   218.64
+031-009-018  BARBARIGOS,       MICHAEL            F   ET     AL      11.32     .45    21.08     13.34   46.19
+031-010-014  BARBARIGOS,       MICHAEL                               11.32     .45    21.08     13.34   46.19
+031-011-008  ANDREWS,   WAYNNE          LEA       ET     AL          11.32     .45    21.08     13.34   46.19
+031-020-002  MINNICK,   PATRICK                                      10.99     .44    21.74     13.47   46.64
+031-024-004  CREW,   HENRY                                                             12.96     .52    24.72     14.36   52.56
+031-024-005  CREW,   HENRY                                                             12.96     .52    24.72     14.36   52.56
+032-005-058  EDMOND,     SADIE                                                         191.54    1.92   355.11    95.00   643.57
+032-020-004  ROMAN,   ANTHONY              CHRISTOPHER                                 61.91     2.48   120.83    50.08   235.30
+034-004-007  TURNER,     PATRICK              F     &     JO     ANN                   21.94     .88    40.23     18.92   81.97
+034-004-008  TURNER,     PATRICK              F     &     JO     ANN                   21.94     .88    40.23     18.92   81.97
+034-008-011  OUMI,   NOLAN        T                                                    11.95     .48    22.05     13.56   48.04
+034-015-003  ROBSON,     DIANA          ET       AL                                    11.95     .48    22.05     13.56   48.04
+034-016-009  OSBORN-MCCREADY,                    EILEEN             ANN                11.95     .48    22.05     13.56   48.04
+034-019-003  SHEPARD,       JAMES          H     &     VICTORIA               V        21.94     .88    40.23     18.92   81.97
+034-019-004  SHEPARD,       JAMES          H     ET       AL                           21.94     .88    40.23     18.92   81.97
+034-024-007  WILLIAMS,      RICHARD                 W     &   DEBORAH               L  21.94     .88    40.23     18.92   81.97
+034-029-005  MARELLA,       DEAN        P     &     MAUREEN             E              21.94     .88    40.23     18.92   81.97
+035-001-009  ALOISE,     ALEXANDER                  J     &   STELLA             M     31.94     1.28   61.55     32.49   127.26
+035-001-010  PAPIN,   E                                                                31.94     1.28   61.55     32.49   127.26
+035-002-004  WHITE,   BERNARD              C                                           58.61     2.34   107.72    46.13   214.80
+035-002-006  BRYANT,     PAUL        R     &     SETZU                                 15.96     .64                      16.60
+035-021-004  VENTURA,       CESAR          I     &     LUZMARIA                        58.61     2.34   107.72    46.13   214.80
+036-042-005  CARMICHAEL,          THOMAS               &     CANDICE                   21.66     .87    41.23     19.30   83.06
+036-047-001  MOSLEY,     MAURICE                                                       21.66     .87    41.23     19.30   83.06
+037-008-008  SEWELL,     WELDON            E                                           59.18     2.37   110.67    47.08   219.30
+037-020-006  BROWN,   GENERAL              M     &     JIMMIE           LEE            87.89     3.52   172.19    65.57   329.17
+037-022-006  GERDON,     JAMES          A     &     MICKEY          R                  39.36     1.57   39.73     18.68   99.34
+037-033-004  WILCOX,     PATRICIA                                                      46.78     1.87   90.91     41.22   180.78
+037-036-003  BREWER,     MAX      &     ROBERTA               TR                       46.78     1.87   90.91     41.22   180.78
+037-036-004  BREWER,     MAX      &     ROBERTA               TR                       46.78     1.87   90.91     41.22   180.78
+037-036-005  BREWER,     MAX      &     ROBERTA               TR                       46.78     1.87   90.91     41.22   180.78
+037-036-006  BREWER,     MAX      &     ROBERTA               TR                       46.78     1.87   90.91     41.22   180.78
+037-037-009  BREWER,     MAX      &     ROBERTA               TR                       24.51     .98    46.89     20.96   93.34
+037-044-001  SIVAR,   DAVID          GARRETT                 ET     AL                 46.78     1.87   90.91     41.22   180.78
+040-002-064  PINT,   JOAN      E                                                       248.42    2.54   291.53    64.92   607.41
+041-001-023  ANDRADE,       JAMES          F                                           248.42    2.54   461.65    119.44  832.05
+042-005-013  SUNBEAM     DAM      PROPERTIES                     LLC                   2,529.85  25.36  188.52    46.90   2,790.63
+043-017-025  PIRTLE,     PAMELA            JO                                          1,084.76  10.91  513.60    55.79   1,665.06
+043-017-027  POWELL,     D  J                                                          1,060.89                           1,060.89
+045-004-004  SHARP,   PAT      C     &     RICHARD               W                     1,029.58  10.36                    1,039.94
+045-018-011  POHLABEL,      PAMELA                                                     369.41    3.75                     373.16
+045-018-081  477  PINE      KNOT        SERIES               LLC                       323.13                             323.13
+045-019-006  BARKER,     TERRON                                                        1,266.76  12.73  1,165.70  322.01  2,767.20
+045-020-007  FOOTE,   TIM      &     LORI                                              427.48    4.33   830.75    203.82  1,466.38
+045-020-030  GROPP,   GALE        E                                                    666.62    6.73   1,321.33  316.40  2,311.08
+045-028-017  ELLIS,   SALFERDINI                    CATHERINE                          389.20    3.95   770.53    191.01  1,354.69
+045-030-037  NOBEL   PROPERTY              SOLUTIONS                LLC                329.49                             329.49
+045-031-002  BALES,   KATHRYN              LEE                                         521.71    5.28   833.77    232.24  1,593.00
+045-031-016  SHERWOOD,      THOMAS               L     &JOANNE             M           379.41    3.85   342.81    99.46   825.53
+047-005-003  UTTER,   JOEL        D                                                    1,705.19  17.11  3,262.02  759.01  5,743.33
+047-010-032  BONTRAGER,        SHALON               D     TR                           1,797.72  18.04  91.98     6.42    1,914.16
+047-017-015  COMPSTON,      MERVIN               L                                     207.05    2.13   336.61    82.00   627.79
+048-006-017  HOWARD,     DAVE                                                          1,777.55  17.84  1,658.08  419.69  3,873.16
+049-016-011  SNEEGAS,       TIMOTHY              G     &     ROBIN         L           1,830.46  18.36  1,662.09  430.07  3,940.98
+049-025-028  CHRISTIAN,        KEVIN             ET       AL                           207.05    2.13   384.65    101.79  695.62
+053-004-008  MAYBERRY,      GEORGE               R     &     CAROLINE                  3,038.39  30.44                    3,068.83
+054-006-009  KOSTAL,     BILL        C                                                 1,130.70  11.37  906.53    224.62  2,273.22
+054-008-032  MENDEZ,   JORGE                                         305.38          3.11                        454.65          98.11           861.25
+054-009-029  HUTTON,   ASHLEIGH            &     CLINTON             359.13          3.65                        176.94          24.44           564.16
+060-003-013  RUSH,     JUSTIN                                        1,217.96        12.24                       136.34          10.24           1,376.78
+062-022-005  TEXEIRA,    EUGENE         MANUEL                       21.89           .88                         41.69           19.41           83.87
+062-022-008  PIRES,    ERNEST                                        18.60           .74                         35.19           17.59           72.12
+063-021-008  CHIADI,   UGOCHUKWU              J                      19.50           .78                         38.56           18.52           77.36
+063-030-006  CORDERO,    JACOB                                       19.50           .78                         38.56           18.52           77.36
+065-005-002  GODFREY,    JEAN     &     DOROTHY                      11.95           .48                         22.05           13.56           48.04
+065-008-016  WARD,     RONALD     GENE                               11.95           .48                         13.71           3.61            29.75
+065-016-013  QUESADA,    PETE     SR                                 11.95           .48                         22.05           13.56           48.04
+066-003-002  CARTER,   JESSE      K     &     PAULINE        L   TR  11.95           .48                         22.05           13.56           48.04
+066-004-012  AMERICAN    LAND     RESERVE               LLC  ET  AL  9.47            .38                         17.13           5.11            32.09
+066-004-013  AMERICAN    LAND     RESERVE               LLC  ET  AL  11.95           .48                         22.05           13.56           48.04
+066-007-011  HARRISON,       KENNETH          M     JR               11.95           .48                         22.05           13.56           48.04
+066-008-015  TORNERO,    RAUL                                        11.95           .48                         22.05           13.56           48.04
+066-010-004  CARTER,   JESSE      K     &     PAULINE        L   TR  11.95           .48                         22.05           13.56           48.04
+066-012-005  CHURCHES,       JAMES      M                            11.95           .48                         10.90           3.00            26.33
+066-013-013  PHILLIPS,       FREDDIE                                 11.95           .48                         22.05           13.56           48.04
+066-013-022  ECT  TREAS      TRUST                                   11.95           .48                         11.17           94.42           118.02
+066-016-003  QUESADA,    PETE     SR                                 11.95           .48                         22.05           13.56           48.04
+066-023-014  STRENG,   BLAKE      EDWARD            ET  AL           11.95           .48                         22.05           13.56           48.04
+066-023-015  STRENG,   BLAKE      EDWARD            ET  AL           11.95           .48                         22.05           13.56           48.04
+066-024-004  QUESADA,    PETE     SR                                 11.95           .48                         22.05           13.56           48.04
+066-024-013  STRENG,   BLAKE      EDWARD            ET  AL           11.95           .48                         22.05           13.56           48.04
+066-024-016  SABAOTH,    YRUWSHALEM                                  11.95           .48                         22.05           13.56           48.04
+066-025-002  STRENG,   BLAKE      EDWARD            ET  AL           11.95           .48                         22.05           13.56           48.04
+066-026-014  HERNANDEZ,       VICTOR          ET    AL               11.95           .48                         22.05           38.56           73.04
+066-030-006  NELSON,   SUSANNE          K                            11.95           .48                         22.05           13.56           48.04
+066-031-002  RAYO,     JUAN                                          11.95           .48                         22.05           13.56           48.04
+066-031-011  RAYO,     JUAN                                          7.07            .28                         12.39           3.66            23.40
+066-032-014  POLLEY,   DONALD        G     &     TINA   M            7.07            .28                         12.39           3.66            23.40
+066-032-015  POLLEY,   DONALD        G     &     TINA   M            7.07            .28                         12.39           3.66            23.40
+067-010-013  CARMICHAEL,       THOMAS                                14.55           .58                         27.19           15.07           57.39
+067-011-003  MURPHY,   DENNIS        &     ANNETTE                   14.55           .58                         27.19           15.07           57.39
+067-016-012  RAYO,     JUAN                                          14.55           .58                         27.19           15.07           57.39
+067-019-014  WHITE,    JEANNE     C     TR                           14.55           .58                         27.19           15.07           57.39
+067-022-002  WHITE,    JEANNE     C     TR                           14.55           .58                         27.19           15.07           57.39
+067-027-004  WHITE,    JEANNE     C     TR                           14.55           .58                         27.19           15.07           57.39
+067-031-016  KNOTT,    JOHN    L                                     14.52           .58                         27.13           15.07           57.30
+075-000-032  SKYLES,   JESSE      C                                  58.82           2.35                        116.28          48.72           226.17
+075-007-049  RICHARDSON,       STEVEN            &  THERESA          74.10           2.96                        116.84          49.03           242.93
+075-007-080  OWEN,     JAMES                                         73.82           2.95                        116.28          48.72           241.77
+075-009-084  FLAGSTONE       CANYON        INC                       102.67          1.48                        .82             13.64           118.61
+077-010-004  AGEE,     TYLER   WAYNE                                 506.56          5.13                        973.03          236.88          1,721.60
+079-002-007  STUELKE,    STEVE                                       907.17          9.13                        736.64          193.61          1,846.55
+                                                                     --------------  --------------  ----------  --------------  --------------  --------------
+Totals:           464  Parcels                                       162,251.24      1,910.10        .00         229,824.18      53,785.42       447,770.94
+
