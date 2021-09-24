@@ -29,7 +29,7 @@ for text_file in [file for file in path]:
                         for m in pattern.finditer(line):
                             # print(line)
                             print(m.start(), m.end(), m.group())
-                            line = line[m.end() :]
+                            line = line[m.end() :].strip()
                             break
                         # line = line[pattern.finditer(line)[0].end()]
                         # print(head, pattern.finditer(line))
